@@ -119,8 +119,9 @@
   "distribution": {
     "repository_url": "https://github.com/haowang836903800-cmyk/phone-content-review-skill",
     "owner": "haowang836903800-cmyk",
-    "expected_visibility": "private",
+    "expected_visibility": "public",
     "skill_directory": "doubao-phone-content-review",
-    "display_name": "手机内容审核skill"
+    "display_name": "手机内容审核skill",
+    "public_since": "2026-11-05"
   }
 }

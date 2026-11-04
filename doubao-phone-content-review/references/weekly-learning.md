@@ -8,7 +8,7 @@
 
 从 `sources.json` 读取项目文件夹、周度Brief文件夹、甲方表和测试表。把当前仓库根目录设为工作目录，必要时在其外建立原始材料缓存；不要把本机用户名、绝对缓存路径或凭证写进可分发技能。
 
-GitHub仓库记录于 `sources.json` 的 `distribution.repository_url`。每次推送前核对remote、仓库owner和私有状态。不要推送到相似名字的其他项目，也不自动改可见性。
+GitHub仓库记录于 `sources.json` 的 `distribution.repository_url`。每次推送前核对remote、仓库owner与 sources.json 记载的公开状态。本用户已于2026-11-05明确要求把现有完整仓库公开，继续更新同一仓库；不要推送到相似项目或改动可见性。
 
 ## 1. 比较本次数据与学习台账
 

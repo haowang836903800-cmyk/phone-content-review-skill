@@ -2,7 +2,7 @@
 
 面向**豆包×努比亚手机 / 豆包手机助手**项目的内部初审技能。基于项目Brief、玩法实测、83位已发布达人稿件、甲方批注和改稿案例，判断脚本和视频该怎么改，并把意见留在指定飞书稿件里。
 
-这是包含项目内部经验与来源的私有知识包。没有把它宣称为甲方自动终审，也没有未经验证的“审核准确率”。
+这是包含项目经验、案例与来源的公开知识包。没有把它宣称为甲方自动终审，也没有未经验证的“审核准确率”。
 
 ## 能做什么
 
@@ -14,11 +14,28 @@
 
 “视频时间点意见”默认是飞书文档评论中的时间码；不冒称播放器原生时间轴批注。技能不去抖音公开评论区发审核意见，不重剪文件，不自动修改客户表状态或给甲方终审放行。
 
+## 直接把链接发给你的 Agent
+
+```text
+请帮我安装这个仓库里的 doubao-phone-content-review skill，并确认安装完成：
+https://github.com/haowang836903800-cmyk/phone-content-review-skill
+```
+
+仓库公开，下载安装无需GitHub邀请或私有访问权限。Agent可按 [INSTALL.md](INSTALL.md) 安装完整技能目录；[技能目录直达](https://github.com/haowang836903800-cmyk/phone-content-review-skill/tree/main/doubao-phone-content-review)。
+
+也可用支持Agent Skills的安装工具，按提示选择你的Agent：
+
+```bash
+npx skills add https://github.com/haowang836903800-cmyk/phone-content-review-skill --skill doubao-phone-content-review
+```
+
+安装工具参数以 [skills官方说明](https://github.com/vercel-labs/skills/blob/main/docs/commands.md) 为准。用该工具安装后，可运行 `npx skills update doubao-phone-content-review` 获取更新。
+
 ## 安装与依赖
 
 将仓库内 `doubao-phone-content-review/` 文件夹放入 Codex 的 `~/.codex/skills/`。中文显示名为「手机内容审核skill」，调用标识仍是 `$doubao-phone-content-review`。
 
-需要可用的飞书访问能力。当前首选 `lark-cli` 和 `lark-doc`、`lark-drive`、`lark-base`、`lark-shared` 技能；没有某工具时需使用实际可用的等价方式，不伪造读取/写入成功。周更推送还需要对此私有GitHub仓库的写权限。
+安装本身无需飞书登录。实际读取或评论飞书时，需要使用者自己的访问权限和可用工具。当前首选 `lark-cli` 和 `lark-doc`、`lark-drive`、`lark-base`、`lark-shared` 技能；没有某工具时需使用实际可用的等价方式，不伪造读取/写入成功。周更推送还需要对此GitHub仓库的写权限。
 
 ## 怎么用
 
@@ -28,7 +45,7 @@
 
 > 只分析，先别写入飞书。
 
-默认按已选择的“指定稿件审核并回写”流程执行。没有目标稿件或只要求学习时，不拿历史文档试发评论。直接改脚本正文、发群或改变审核状态需单独明确要求。
+维护者的项目默认按已选择的“指定稿件审核并回写”流程执行。其他人安装后，以其自己的当前授权为准，不继承维护者的登录权限、批注授权或自动化。没有目标稿件或只要求学习时，不拿历史文档试发评论。直接改脚本正文、发群或改变审核状态需单独明确要求。
 
 ## 周更
 
