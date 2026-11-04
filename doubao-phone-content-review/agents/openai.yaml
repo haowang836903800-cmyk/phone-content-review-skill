@@ -1,4 +1,4 @@
 interface:
   display_name: "手机内容审核skill"
-  short_description: "用白话审核手机脚本和视频，在飞书留定位批注并回读，不自动改正文或新增版本"
-  default_prompt: "使用 $doubao-phone-content-review 审核这份豆包手机稿件，核对真实使用、本人取舍和上轮意见，用白话在指定飞书稿件中留定位批注并回读；不要直接改脚本正文或新增版本。"
+  short_description: "审豆包手机脚本和视频，默认用使用者本人飞书身份留定位评论并回读，不改正文"
+  default_prompt: "使用 $doubao-phone-content-review 审核这份豆包手机稿件，核对真实使用、本人取舍和上轮意见，用我当前登录的飞书身份在原稿留白话定位评论并回读；不改正文或新增版本，缺评论能力时明确报告未写入及原因。"

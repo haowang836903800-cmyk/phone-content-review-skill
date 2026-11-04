@@ -1,6 +1,6 @@
 # 手机内容审核skill
 
-面向**豆包×努比亚手机 / 豆包手机助手**项目的内部初审技能。基于项目Brief、玩法实测、83位已发布达人稿件、甲方批注和改稿案例，用白话说清脚本和视频哪里要改，并在已授权的飞书稿件中留下定位批注、回读确认。默认不直接改脚本正文或新增版本。
+面向**豆包×努比亚手机 / 豆包手机助手**项目的内部初审技能。基于项目Brief、玩法实测、83位已发布达人稿件、甲方批注和改稿案例，用白话说清脚本和视频哪里要改。**调用本技能审核指定飞书稿件，默认用使用者本人的飞书身份在原稿留定位评论并回读；不只在Agent聊天里交一段建议。** 不自动改正文或新增版本。
 
 这是包含项目经验、案例与来源的公开知识包。没有把它宣称为甲方自动终审，也没有未经验证的“审核准确率”。
 
@@ -18,11 +18,13 @@
 ## 直接把链接发给你的 Agent
 
 ```text
-请帮我安装这个仓库里的 doubao-phone-content-review skill，并确认安装完成：
+请按我的Agent环境安装这个仓库里的 doubao-phone-content-review skill，读取INSTALL.md并确认完整资源已加载：
 https://github.com/haowang836903800-cmyk/phone-content-review-skill
+以后我给飞书稿件要求审核，默认用我自己的飞书身份在原稿留评论并回读；不改正文、不出新版。
+如果当前环境不能安装技能或没有飞书评论工具，请说明实际缺哪一步，不要把聊天里的建议当成已经评论。
 ```
 
-仓库公开，下载安装无需GitHub邀请或私有访问权限。Agent可按 [INSTALL.md](INSTALL.md) 安装完整技能目录；[技能目录直达](https://github.com/haowang836903800-cmyk/phone-content-review-skill/tree/main/doubao-phone-content-review)。
+仓库公开，下载安装无需GitHub邀请或私有访问权限。Agent按 [INSTALL.md](INSTALL.md) 安装完整技能目录；[技能目录直达](https://github.com/haowang836903800-cmyk/phone-content-review-skill/tree/main/doubao-phone-content-review)。需要压缩包时用 [完整技能ZIP](https://github.com/haowang836903800-cmyk/phone-content-review-skill/raw/refs/heads/main/dist/doubao-phone-content-review.zip)，不要只上传SKILL.md。
 
 也可用支持Agent Skills的安装工具，按提示选择你的Agent：
 
@@ -34,19 +36,23 @@ npx skills add https://github.com/haowang836903800-cmyk/phone-content-review-ski
 
 ## 安装与依赖
 
-将仓库内 `doubao-phone-content-review/` 文件夹放入 Codex 的 `~/.codex/skills/`。中文显示名为「手机内容审核skill」，调用标识仍是 `$doubao-phone-content-review`。
+共用标准 `SKILL.md` 和完整资源目录，不绑定某个模型或Codex专有接口。已写明Codex、Claude Code、Cursor、Copilot、Gemini CLI、Kimi Code CLI、TRAE、Windsurf、OpenCode、OpenClaw等安装器路线，以及豆包/豆包工作的执行分支；详见 [跨Agent适配说明](doubao-phone-content-review/references/agent-adapters.md)。支持哪些安装器，不等于所有环境的飞书评论都已线上实测。
 
-安装本身无需飞书登录。实际读取或评论飞书时，需要使用者自己的访问权限和可用工具。当前首选 `lark-cli` 和 `lark-doc`、`lark-drive`、`lark-base`、`lark-shared` 技能；没有某工具时需使用实际可用的等价方式，不伪造读取/写入成功。周更推送还需要对此GitHub仓库的写权限。
+安装本身无需飞书登录。第一次真实审稿时检查本人的飞书身份、读评论/写评论及回读能力，优先可用连接器/MCP，也可用用户身份的 `lark-cli` 或本人已登录的浏览器。不同环境无需有相同的工具名；不能默认用应用机器人发言。缺工具或权限时说明实际阻碍及下一步，不将纯文字报告当成回写完成。
+
+**豆包与豆包工作：** 审核规则及工具选择已适配；在有技能和飞书工具的工作环境中执行。普通聊天只有读附件能力时，不能替你进飞书评论。当前版本是否可自定义导入，须以实际入口确认；本仓库未上架豆包商店，不保证任意豆包客户端收到GitHub链接就能安装。豆包官方将技能与连接器分开，商店发行另有接入审核：[官方Skill指南](https://open.doubao.com/document/doubao-developer-guide/skill-integration-guide)。
 
 ## 怎么用
 
-> 用手机内容审核skill审这个脚本V2，用白话在原文档里留定位修改意见，不改正文、不新增版本：〈稿件链接〉。
+> 用手机内容审核skill审核这个脚本V2：〈稿件链接〉。
 
 > 这是视频V3，审核文档在这里。按实际画面和讲话审，带时间点评论，并检查上轮意见有没有改好。
 
 > 只分析，先别写入飞书。
 
-维护者的项目当前默认“审核＋定位批注＋复审回写”，此前自动生成新版脚本的做法已取消。其他人安装后，以其自己的当前授权为准，不继承维护者的登录权限、写入授权或自动化。没有目标稿件或只要求学习时，不拿历史文档试发评论；“只分析/先别写”不写入。改正文、另写版本、删除已有版本、替换视频、发群或改变审核状态，须有用户后续明确要求。未知的日期、预算币种和实测结果写清缺口，不替达人编经历。
+上面的普通审核请求已经包含原稿评论，不需要再强调“请写入”。该默认交付适用于所有安装者；不继承的是维护者的账号、资料权限和自动化，而非评论这一步。明确“只分析/先别写/不要评论”才不回写；仅安装、学习或升级不试发历史稿评论。无新问题或同样意见已存在时可新增0条并解释原因。改正文、另写版本、删除已有版本、替换视频、发群或改变审核状态，须有用户另外明确要求。未知事实不替达人编造。
+
+已安装过旧版的人需要更新本机副本并让Agent重新加载；GitHub更新不会自动替换每个人本地的skill。用上述安装器安装的可执行 `npx skills update doubao-phone-content-review`；手动/ZIP安装的先保留自己的配置，再用同一入口导入新版。升级不会自动替使用者登录飞书。
 
 ## 周更
 

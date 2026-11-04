@@ -212,6 +212,14 @@
               },
               "verification_note": {
                 "type": "string"
+              },
+              "comment_locator": {
+                "type": "string",
+                "minLength": 1
+              },
+              "reply_locator": {
+                "type": "string",
+                "minLength": 1
               }
             }
           },
@@ -230,6 +238,18 @@
           "write_preconditions_met": {
             "type": "boolean",
             "default": false
+          },
+          "comment_locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "reply_locator": {
+            "type": "string",
+            "minLength": 1
+          },
+          "target_author_evidence": {
+            "type": "string",
+            "minLength": 1
           }
         },
         "allOf": [
@@ -245,8 +265,29 @@
               }
             },
             "then": {
-              "required": [
-                "comment_id"
+              "anyOf": [
+                {
+                  "required": [
+                    "comment_id"
+                  ],
+                  "properties": {
+                    "comment_id": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                },
+                {
+                  "required": [
+                    "comment_locator"
+                  ],
+                  "properties": {
+                    "comment_locator": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                }
               ]
             }
           },
@@ -260,9 +301,61 @@
             },
             "then": {
               "required": [
-                "reply_id",
-                "target_author_id",
                 "old_content_sha256"
+              ],
+              "allOf": [
+                {
+                  "anyOf": [
+                    {
+                      "required": [
+                        "reply_id"
+                      ],
+                      "properties": {
+                        "reply_id": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      }
+                    },
+                    {
+                      "required": [
+                        "reply_locator"
+                      ],
+                      "properties": {
+                        "reply_locator": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      }
+                    }
+                  ]
+                },
+                {
+                  "anyOf": [
+                    {
+                      "required": [
+                        "target_author_id"
+                      ],
+                      "properties": {
+                        "target_author_id": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      }
+                    },
+                    {
+                      "required": [
+                        "target_author_evidence"
+                      ],
+                      "properties": {
+                        "target_author_evidence": {
+                          "type": "string",
+                          "minLength": 1
+                        }
+                      }
+                    }
+                  ]
+                }
               ]
             }
           },
@@ -295,7 +388,6 @@
               "properties": {
                 "receipt": {
                   "required": [
-                    "comment_id",
                     "content_verified",
                     "author_verified",
                     "anchor_verified"
@@ -314,7 +406,35 @@
                     "anchor_verified": {
                       "const": true
                     }
-                  }
+                  },
+                  "allOf": [
+                    {
+                      "anyOf": [
+                        {
+                          "required": [
+                            "comment_id"
+                          ],
+                          "properties": {
+                            "comment_id": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          }
+                        },
+                        {
+                          "required": [
+                            "comment_locator"
+                          ],
+                          "properties": {
+                            "comment_locator": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
                 }
               }
             }
@@ -336,15 +456,41 @@
             "then": {
               "properties": {
                 "receipt": {
-                  "required": [
-                    "reply_id"
-                  ],
+                  "required": [],
                   "properties": {
                     "reply_id": {
                       "type": "string",
                       "minLength": 1
                     }
-                  }
+                  },
+                  "allOf": [
+                    {
+                      "anyOf": [
+                        {
+                          "required": [
+                            "reply_id"
+                          ],
+                          "properties": {
+                            "reply_id": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          }
+                        },
+                        {
+                          "required": [
+                            "reply_locator"
+                          ],
+                          "properties": {
+                            "reply_locator": {
+                              "type": "string",
+                              "minLength": 1
+                            }
+                          }
+                        }
+                      ]
+                    }
+                  ]
                 }
               }
             }
@@ -391,6 +537,23 @@
       "default": false
     },
     "reviewer_author_id": {
+      "type": "string"
+    },
+    "reviewer_identity_evidence": {
+      "type": "string",
+      "minLength": 1,
+      "description": "UI or connector evidence linking the current signed-in person to the comment author; never fabricate an API ID."
+    },
+    "adapter": {
+      "enum": [
+        "connector",
+        "mcp",
+        "lark_cli",
+        "browser",
+        "native_app"
+      ]
+    },
+    "host_agent": {
       "type": "string"
     }
   },
@@ -494,8 +657,7 @@
       },
       "then": {
         "required": [
-          "identity_verified",
-          "reviewer_author_id"
+          "identity_verified"
         ],
         "properties": {
           "execution_allowed": {
@@ -508,7 +670,97 @@
             "type": "string",
             "minLength": 1
           }
+        },
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "required": [
+                  "reviewer_author_id"
+                ],
+                "properties": {
+                  "reviewer_author_id": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              {
+                "required": [
+                  "reviewer_identity_evidence"
+                ],
+                "properties": {
+                  "reviewer_identity_evidence": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "if": {
+        "required": [
+          "execution_allowed"
+        ],
+        "properties": {
+          "execution_allowed": {
+            "const": true
+          }
         }
+      },
+      "then": {
+        "required": [
+          "mode",
+          "environment",
+          "identity",
+          "identity_verified"
+        ],
+        "properties": {
+          "mode": {
+            "const": "review_and_comment"
+          },
+          "environment": {
+            "const": "live"
+          },
+          "identity": {
+            "const": "user"
+          },
+          "identity_verified": {
+            "const": true
+          }
+        },
+        "allOf": [
+          {
+            "anyOf": [
+              {
+                "required": [
+                  "reviewer_author_id"
+                ],
+                "properties": {
+                  "reviewer_author_id": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              },
+              {
+                "required": [
+                  "reviewer_identity_evidence"
+                ],
+                "properties": {
+                  "reviewer_identity_evidence": {
+                    "type": "string",
+                    "minLength": 1
+                  }
+                }
+              }
+            ]
+          }
+        ]
       }
     }
   ]

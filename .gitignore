@@ -13,3 +13,4 @@ raw/
 *.mp3
 *.wav
 *.zip
+!dist/doubao-phone-content-review.zip
