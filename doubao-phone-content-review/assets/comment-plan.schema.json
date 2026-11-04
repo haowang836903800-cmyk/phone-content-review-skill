@@ -1,0 +1,515 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Feishu manuscript review writeback plan and receipts",
+  "type": "object",
+  "required": [
+    "mode",
+    "document_url",
+    "review_version",
+    "coverage",
+    "operations",
+    "execution_allowed"
+  ],
+  "properties": {
+    "mode": {
+      "enum": [
+        "review_and_comment",
+        "analysis_only",
+        "learning_only"
+      ]
+    },
+    "document_url": {
+      "type": "string",
+      "minLength": 1
+    },
+    "document_token": {
+      "type": "string"
+    },
+    "document_revision": {
+      "type": [
+        "integer",
+        "string"
+      ]
+    },
+    "review_version": {
+      "type": "string",
+      "minLength": 1
+    },
+    "identity": {
+      "enum": [
+        "user",
+        "bot"
+      ]
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "read",
+        "viewed",
+        "not_verified"
+      ],
+      "properties": {
+        "read": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "viewed": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "not_verified": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "operations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "operation",
+          "stage",
+          "location",
+          "finding",
+          "basis",
+          "change",
+          "acceptance",
+          "content",
+          "dedupe_key",
+          "status"
+        ],
+        "properties": {
+          "operation": {
+            "enum": [
+              "create_comment",
+              "create_reply",
+              "update_reply"
+            ]
+          },
+          "stage": {
+            "enum": [
+              "script",
+              "video",
+              "revision"
+            ]
+          },
+          "location": {
+            "type": "string",
+            "minLength": 1
+          },
+          "block_id": {
+            "type": "string"
+          },
+          "quote": {
+            "type": "string"
+          },
+          "comment_id": {
+            "type": "string"
+          },
+          "reply_id": {
+            "type": "string"
+          },
+          "target_author_id": {
+            "type": "string"
+          },
+          "old_content_sha256": {
+            "type": "string"
+          },
+          "media": {
+            "type": "object",
+            "required": [
+              "filename",
+              "version",
+              "time_range"
+            ],
+            "properties": {
+              "filename": {
+                "type": "string"
+              },
+              "version": {
+                "type": "string"
+              },
+              "file_token": {
+                "type": "string"
+              },
+              "sha256": {
+                "type": "string"
+              },
+              "time_range": {
+                "type": "string"
+              },
+              "native_timeline_anchor": {
+                "type": "boolean",
+                "default": false
+              }
+            }
+          },
+          "finding": {
+            "type": "string",
+            "minLength": 1
+          },
+          "basis": {
+            "enum": [
+              "来源明确要求",
+              "本次观察",
+              "审核建议",
+              "待验证"
+            ]
+          },
+          "source": {
+            "type": "string"
+          },
+          "change": {
+            "type": "string",
+            "minLength": 1
+          },
+          "acceptance": {
+            "type": "string",
+            "minLength": 1
+          },
+          "content": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 10000
+          },
+          "dedupe_key": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "enum": [
+              "planned",
+              "posted_verified",
+              "skipped_duplicate",
+              "not_posted",
+              "unconfirmed"
+            ]
+          },
+          "receipt": {
+            "type": "object",
+            "properties": {
+              "comment_id": {
+                "type": "string"
+              },
+              "reply_id": {
+                "type": "string"
+              },
+              "content_verified": {
+                "type": "boolean"
+              },
+              "author_verified": {
+                "type": "boolean"
+              },
+              "anchor_verified": {
+                "type": "boolean"
+              },
+              "verification_note": {
+                "type": "string"
+              }
+            }
+          },
+          "evidence_status": {
+            "enum": [
+              "verified",
+              "pending_validation"
+            ]
+          },
+          "write_preconditions": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "write_preconditions_met": {
+            "type": "boolean",
+            "default": false
+          }
+        },
+        "allOf": [
+          {
+            "if": {
+              "properties": {
+                "operation": {
+                  "enum": [
+                    "create_reply",
+                    "update_reply"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "comment_id"
+              ]
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "operation": {
+                  "const": "update_reply"
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "reply_id",
+                "target_author_id",
+                "old_content_sha256"
+              ]
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "stage": {
+                  "const": "video"
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "media"
+              ]
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "posted_verified"
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "receipt"
+              ],
+              "properties": {
+                "receipt": {
+                  "required": [
+                    "comment_id",
+                    "content_verified",
+                    "author_verified",
+                    "anchor_verified"
+                  ],
+                  "properties": {
+                    "comment_id": {
+                      "type": "string",
+                      "minLength": 1
+                    },
+                    "content_verified": {
+                      "const": true
+                    },
+                    "author_verified": {
+                      "const": true
+                    },
+                    "anchor_verified": {
+                      "const": true
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "posted_verified"
+                },
+                "operation": {
+                  "enum": [
+                    "create_reply",
+                    "update_reply"
+                  ]
+                }
+              }
+            },
+            "then": {
+              "properties": {
+                "receipt": {
+                  "required": [
+                    "reply_id"
+                  ],
+                  "properties": {
+                    "reply_id": {
+                      "type": "string",
+                      "minLength": 1
+                    }
+                  }
+                }
+              }
+            }
+          },
+          {
+            "if": {
+              "properties": {
+                "status": {
+                  "const": "posted_verified"
+                }
+              }
+            },
+            "then": {
+              "required": [
+                "evidence_status",
+                "write_preconditions_met"
+              ],
+              "properties": {
+                "evidence_status": {
+                  "const": "verified"
+                },
+                "write_preconditions_met": {
+                  "const": true
+                }
+              }
+            }
+          }
+        ]
+      }
+    },
+    "execution_allowed": {
+      "type": "boolean",
+      "default": false
+    },
+    "environment": {
+      "enum": [
+        "live",
+        "offline",
+        "simulated"
+      ]
+    },
+    "identity_verified": {
+      "type": "boolean",
+      "default": false
+    },
+    "reviewer_author_id": {
+      "type": "string"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "mode": {
+            "enum": [
+              "analysis_only",
+              "learning_only"
+            ]
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "operations": {
+            "items": {
+              "properties": {
+                "status": {
+                  "enum": [
+                    "planned",
+                    "not_posted",
+                    "skipped_duplicate"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "execution_allowed": {
+            "const": false
+          }
+        },
+        "required": [
+          "execution_allowed"
+        ]
+      },
+      "then": {
+        "properties": {
+          "operations": {
+            "items": {
+              "properties": {
+                "status": {
+                  "enum": [
+                    "planned",
+                    "not_posted",
+                    "skipped_duplicate"
+                  ]
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "environment": {
+            "enum": [
+              "offline",
+              "simulated"
+            ]
+          }
+        },
+        "required": [
+          "environment"
+        ]
+      },
+      "then": {
+        "properties": {
+          "execution_allowed": {
+            "const": false
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "operations": {
+            "contains": {
+              "properties": {
+                "status": {
+                  "const": "posted_verified"
+                }
+              },
+              "required": [
+                "status"
+              ]
+            }
+          }
+        }
+      },
+      "then": {
+        "required": [
+          "identity_verified",
+          "reviewer_author_id"
+        ],
+        "properties": {
+          "execution_allowed": {
+            "const": true
+          },
+          "identity_verified": {
+            "const": true
+          },
+          "reviewer_author_id": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,179 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Doubao phone internal content review",
+  "type": "object",
+  "required": [
+    "creator",
+    "stage",
+    "version",
+    "reviewed_at",
+    "verdict",
+    "coverage",
+    "findings",
+    "evidence_gaps"
+  ],
+  "properties": {
+    "creator": {
+      "type": "string"
+    },
+    "stage": {
+      "enum": [
+        "topic",
+        "outline",
+        "script",
+        "video",
+        "revision",
+        "publication_materials"
+      ]
+    },
+    "version": {
+      "type": "string"
+    },
+    "reviewed_at": {
+      "type": "string"
+    },
+    "source_url": {
+      "type": "string"
+    },
+    "brief_url": {
+      "type": "string"
+    },
+    "verdict": {
+      "enum": [
+        "建议通过本阶段初审",
+        "修改后复审",
+        "补证后判断",
+        "不建议按此方向继续"
+      ]
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "observed",
+        "not_verified"
+      ],
+      "properties": {
+        "observed": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "not_verified": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "priority",
+          "location",
+          "issue",
+          "basis",
+          "change",
+          "acceptance"
+        ],
+        "properties": {
+          "priority": {
+            "enum": [
+              "阻断",
+              "必改",
+              "可选"
+            ]
+          },
+          "location": {
+            "type": "string"
+          },
+          "issue": {
+            "type": "string"
+          },
+          "basis": {
+            "enum": [
+              "来源明确要求",
+              "本次观察",
+              "审核建议",
+              "待验证"
+            ]
+          },
+          "source": {
+            "type": "string"
+          },
+          "change": {
+            "type": "string"
+          },
+          "acceptance": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "evidence_gaps": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "creator_message": {
+      "type": "string"
+    },
+    "previous_feedback_check": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    },
+    "external_actions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "action",
+          "target_url",
+          "status"
+        ],
+        "properties": {
+          "action": {
+            "enum": [
+              "create_comment",
+              "create_reply",
+              "update_reply"
+            ]
+          },
+          "target_url": {
+            "type": "string"
+          },
+          "comment_id": {
+            "type": "string"
+          },
+          "reply_id": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "posted_verified",
+              "not_posted",
+              "unconfirmed",
+              "skipped_duplicate"
+            ]
+          },
+          "readback_note": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "mode": {
+      "enum": [
+        "review_and_comment",
+        "analysis_only",
+        "learning_only"
+      ]
+    }
+  }
+}

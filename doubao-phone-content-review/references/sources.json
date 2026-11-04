@@ -1,0 +1,126 @@
+{
+  "snapshot": "2026-11-04",
+  "project": "Doubao phone, not Doubao App",
+  "refresh_required_before_new_review": true,
+  "sources": [
+    {
+      "id": "project_folder",
+      "title": "项目资料文件夹",
+      "url": "https://zqyd2vqyqmy.feishu.cn/drive/folder/WWfZf4GSyljdGsdnfzZctHWpnYe",
+      "scope": "列目录并选读相关规范、Brief、会议与流程，不声称读遍所有文件"
+    },
+    {
+      "id": "weekly_folder",
+      "title": "每周Brief文件夹",
+      "url": "https://zqyd2vqyqmy.feishu.cn/drive/folder/HQi9fAPWTljjE1doWsDceJTanqg",
+      "scope": "每次新审稿先查当周文件"
+    },
+    {
+      "id": "client_base",
+      "title": "甲方已发布表",
+      "url": "https://zqyd2vqyqmy.feishu.cn/base/Ywpib0LB4anrC3sZI0McgJ00n6f?table=tblS7VpJMd2uS8tl&view=vewXIamkSO",
+      "scope": "2026-11-04基线83条；每次按实时已发布状态全量分页，不以83为上限，保留原始链接与指标"
+    },
+    {
+      "id": "test_base",
+      "title": "玩法测试表",
+      "url": "https://zqyd2vqyqmy.feishu.cn/base/Lw5FbEVziaEfoysgqZlc3r81nbc?table=tblInpg2tLlt0JKg",
+      "scope": "2026-11-04基线98条；每次刷新全部记录，状态、结果、失败环节、是否可推分别读取"
+    },
+    {
+      "id": "agency_brief",
+      "title": "机构版Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/P4cAdKXRJo6mZ1xE0yXcCp50nA3",
+      "scope": "三类达人与合作内容基线",
+      "last_verified_at": "2026-11-04T23:44:44+08:00",
+      "verified_revision": 1767
+    },
+    {
+      "id": "creator_brief",
+      "title": "达人版Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/LOggdkMujokCnyxwdH9cKS0hnTd",
+      "scope": "达人理解与拍摄参考",
+      "last_verified_at": "2026-11-04T23:44:44+08:00",
+      "verified_revision": 129
+    },
+    {
+      "id": "redlines",
+      "title": "机构红线规范",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/AAIkdB4w3oBRLAx8g16cq30pnBd",
+      "scope": "项目要求，不冒称抖音官方规则",
+      "last_verified_at": "2026-11-04T23:44:44+08:00",
+      "verified_revision": 435
+    },
+    {
+      "id": "wave1",
+      "title": "第一波Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/IzqjdROsoolPOlxKhTlc0MApngg",
+      "scope": "历史适用场景"
+    },
+    {
+      "id": "wave2",
+      "title": "第二波Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/PJZ8dye1xoMjiVxiohQcHbeRnsc",
+      "scope": "历史适用场景"
+    },
+    {
+      "id": "wave3",
+      "title": "第三波Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/R9hldOt4moxH7ZxfT0Ict00mn4c",
+      "scope": "文件与表格波次日期口径不一，按本次任务确认"
+    },
+    {
+      "id": "wave4",
+      "title": "第四波Brief11.9-11.15",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/CY1PdyULzoUy9Lx2S9hc5jYlnQd",
+      "scope": "11月4日时为后续一波，优先本机与读屏"
+    },
+    {
+      "id": "miniprogram",
+      "title": "小程序专项Brief",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/BVoYdo8XWoKuR4xvCEQcZjhingh",
+      "scope": "专项30秒以内、问答和服务连续衔接"
+    },
+    {
+      "id": "gameplay_reference",
+      "title": "玩法参考",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/MfcxdBCEGoRvrAxdbxIchbtynOd",
+      "scope": "与实时测试状态冲突时不机械沿用"
+    },
+    {
+      "id": "meeting1030",
+      "title": "10月30日会议原始文字",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/G4bhdapTsoW8jVx5Ac3czMdJnHj",
+      "scope": "支持保留原生表达、删泛赞、补具体结果；说话人需原始证据归属"
+    },
+    {
+      "id": "meeting1104",
+      "title": "11月4日AI会议纪要",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/QjkidxB7VowMG7xeBoichslinqc",
+      "scope": "含姓名/判断矛盾，仅作线索，不独立决定复投或淘汰"
+    },
+    {
+      "id": "workflow",
+      "title": "项目流程",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/AXfJdHJ44otOMMxCS9scoXgtn3d",
+      "scope": "供理解初审与甲方确认分工，不扩展业务写入授权"
+    }
+  ],
+  "case_source": "casebook.md",
+  "known_uncertainties": [
+    "21 public pages opened; 20 visible comment samples; C029 did not load comments; 62 pages not opened",
+    "83 current-document primary attachments are candidates, not all verified identical to public final versions",
+    "92 attachments inspected by sampled frames and machine ASR; not a full-motion human watch of all versions",
+    "407 selected revision snapshots from 948 history entries; not every autosave fetched",
+    "ASR unreliable in C004/C012/C013/C041/C065 and several auxiliary clips; see case notes",
+    "No current full account-history audit or causal performance study",
+    "No external tables, messages or publishing changed"
+  ],
+  "distribution": {
+    "repository_url": "https://github.com/haowang836903800-cmyk/phone-content-review-skill",
+    "owner": "haowang836903800-cmyk",
+    "expected_visibility": "private",
+    "skill_directory": "doubao-phone-content-review",
+    "display_name": "手机内容审核skill"
+  }
+}

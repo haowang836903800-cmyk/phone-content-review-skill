@@ -1,0 +1,4 @@
+interface:
+  display_name: "手机内容审核skill"
+  short_description: "基于项目经验初审脚本和视频，在飞书定位批注与复审回写，按周学习更新"
+  default_prompt: "使用 $doubao-phone-content-review 审核这份豆包手机脚本或视频，核对当周Brief、实测与上轮意见，直接在指定飞书稿件中留下定位修改意见并回读确认。"

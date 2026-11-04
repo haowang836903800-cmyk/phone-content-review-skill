@@ -1,0 +1,2300 @@
+{
+  "schema_version": 1,
+  "project": "doubao-phone",
+  "baseline_date": "2026-11-04",
+  "last_weekly_run": null,
+  "last_successful_weekly_run": null,
+  "records": [
+    {
+      "record_id": "reczz28LhIFubK2p",
+      "case_id": "C001",
+      "creator": "本里",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/SercdzVZToZZDnx1MQPc9ocqnre",
+      "document_id": "SercdzVZToZZDnx1MQPc9ocqnre",
+      "revision_id": 202,
+      "content_sha256": "72a8b8072a7d70857c8a55c6da8fbb8ba73c8486f5a84dcf4c1c71efc92360f8",
+      "comment_snapshot_sha256": "bd388b3aff742696579f1e9345a44fc9ee00f2a6901366aa8f331922cdfa7101",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "SHaObxRwUo9lubxfy29c47TqnEC",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "0d91f5fcf2d08a829cb0b71a3dfb2f95e52ff0fb572b890217a2b0507462c6da"
+    },
+    {
+      "record_id": "reczz28MSdgKF0It",
+      "case_id": "C002",
+      "creator": "jiarui的读博笔记",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/OY8kdqxiAoen9oxVvHBcffKLnid",
+      "document_id": "OY8kdqxiAoen9oxVvHBcffKLnid",
+      "revision_id": 55,
+      "content_sha256": "57620f165f27ae2b5a733f90f754890aae616ccc81b836c02a2570ba29306a2c",
+      "comment_snapshot_sha256": "ecf9b7c12421c6a552609b908ae9532ff15bf238aa2a3bd6b67cf1964e21845d",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "HGJkbgCBIoO9JcxcedUcy27an6u",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "a9d10c2acbb4602cb65033024a43b31ee201ac304159b750f6b0784057db5c57"
+    },
+    {
+      "record_id": "reczz28MSdgKDhOW",
+      "case_id": "C003",
+      "creator": "三十七岁的AI自习室",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Xypmdde8hoYuOuxttyFcX5BnnPd",
+      "document_id": "Xypmdde8hoYuOuxttyFcX5BnnPd",
+      "revision_id": 18,
+      "content_sha256": "3065be5976575a16f22b1ec40900ba9a4c139fee617220268275eb43750f40ff",
+      "comment_snapshot_sha256": "eb679300c35684ac509d26502f5383ef0a266c1f78cd6336847b963feec65d83",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "GgDdbACUfoFjX4xC9kRclemdnhc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4151c6d900e8f8bde4682cc9572c5bf0fba00eee38804195f5d5bc394e427bb1"
+    },
+    {
+      "record_id": "reczz28MSdgKF82P",
+      "case_id": "C004",
+      "creator": "梓宗",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/JiMMd3S2Pox5nyxRw9yc1doEnCg",
+      "document_id": "JiMMd3S2Pox5nyxRw9yc1doEnCg",
+      "revision_id": 173,
+      "content_sha256": "86f6e938bb2ead981d5481fe876ddb2c41f68349eae7b8490e9b54f347b994e9",
+      "comment_snapshot_sha256": "ca415aa7083db111000e9b666924dd7e0666a4e017f8b65afdc00fea8ac52727",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "B6dVb3dg5ovfC1xTRajcWqjKnhb",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "22395a6c34ad7120073791ef7779a0fa56cb18456090649baed18f8a5bf547ad"
+    },
+    {
+      "record_id": "reczz28MSdgKEEu5",
+      "case_id": "C005",
+      "creator": "赵哈哈在努力",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/NhQAdTSakoQuCcxmap2cxSKsnqb",
+      "document_id": "NhQAdTSakoQuCcxmap2cxSKsnqb",
+      "revision_id": 116,
+      "content_sha256": "564db31d8da3b9ca311b61cb22056d8ce172c6c55569eb350881ab515919c5b3",
+      "comment_snapshot_sha256": "883fda5de86b9284db6f4d9e65f9db83d089b6ed893b31fbdcf53c8733e77634",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "RMw5bIyWXoUUT9xPaWjcVSrwnfd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "fcdd90ff1a9f8832d4a0c9a38adace0458492ca0f356fc65856bab863e00aaf9"
+    },
+    {
+      "record_id": "reczz28MSdgKGQFJ",
+      "case_id": "C006",
+      "creator": "周同学开测啦",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/BuVGdcQCNoLnqixb577crGMHnUb",
+      "document_id": "BuVGdcQCNoLnqixb577crGMHnUb",
+      "revision_id": 72,
+      "content_sha256": "e49e9e44537a3358976cb9ae7e898fe0b061e12441d2aea8e460ab7555b99521",
+      "comment_snapshot_sha256": "b804c813477f64dc4bb86e30c1136dabdece2ca5055e3c0a5fb8e07e226d405d",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "SIxBbjM8AormzlxO8fmc6xtknne",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "321a70beacd442414b97bfc25c2a69395be9e96e2b78b709e4f661f7cae8290d"
+    },
+    {
+      "record_id": "reczz28MSdgKGgFx",
+      "case_id": "C007",
+      "creator": "白水.",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/CquWdWDdhomCBqxAjy3cv3oHnTd",
+      "document_id": "CquWdWDdhomCBqxAjy3cv3oHnTd",
+      "revision_id": 102,
+      "content_sha256": "806904f4eb727d9c1d786f3899628ad317f64036337560b8aaf66bad17599d3a",
+      "comment_snapshot_sha256": "b8a7a8f850e6e77a50e397c998172c84a5575f3cabe6a84425520608fc883efc",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "L35ybUJypotN9mxVlYZc9OKgnsd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "758c4d6f80513538e9f3f0eaabfb5a69969009d9dd31ccfacce87a9968ddc722"
+    },
+    {
+      "record_id": "reczz28MSdgKF2YR",
+      "case_id": "C008",
+      "creator": "soft咔叽",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/JyEDdImOtoRRcHxTOwUcNWoInng",
+      "document_id": "JyEDdImOtoRRcHxTOwUcNWoInng",
+      "revision_id": 29,
+      "content_sha256": "8ff36dd15ea0ff1515518e0c586ce05978c8d4043a45bfea653676a5e03a9c59",
+      "comment_snapshot_sha256": "2141b9e71b7ed5b34e284874588dce0980442657587ba1129b2e6af3a6a5e6ea",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "D2OhbRCqMoGEMSxlqYCc33H7nuf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2fb613e5059b227b7e8a50e46206345a77185a6cb20573e6c1b4a96b19e4c27f"
+    },
+    {
+      "record_id": "reczz28MSdgKFfMD",
+      "case_id": "C009",
+      "creator": "地锅鸡（已offer版）",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/CUpwd5BQYolnzfxiQGZcc9y6nHe",
+      "document_id": "CUpwd5BQYolnzfxiQGZcc9y6nHe",
+      "revision_id": 62,
+      "content_sha256": "723278acbd88ea843fb1849e5435e3554c824ce33201dbfb4d5639152167a5ed",
+      "comment_snapshot_sha256": "49a849527aa7ca261a09c58eae38c5dc9259f86940a315c210d074a1987adb89",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Wet9bNtmgocjaUxG3Kpcfbylnsf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "5b8433882dadbb4c4b70a0aca5bd00d72864c9d26797a3f616e9169d2e888169"
+    },
+    {
+      "record_id": "reczz28MSdgKGiay",
+      "case_id": "C010",
+      "creator": "云儿☁️",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/WkVAdpCYDoIYV8xMA5acfQ1Aneb",
+      "document_id": "WkVAdpCYDoIYV8xMA5acfQ1Aneb",
+      "revision_id": 82,
+      "content_sha256": "d2f3d47c04b705383d72c1999cc3d142fea5780edcedbb22b2e305f365d9225b",
+      "comment_snapshot_sha256": "c7e352bd68c213d58138112d07bda2a5af3e706ac6fbc8ffa6483a3563121725",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "ZIL5b7knzodBFdxeYuscDkEqntb",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "86ecb52b4fc268228c0ce05c688d40de1710d452f965c9839c0f7e95c75084e5"
+    },
+    {
+      "record_id": "reczz28MSdgKDJKu",
+      "case_id": "C011",
+      "creator": "进击的阿云",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/DiWKdY1mKo7r6rxafgFcNLR1nbb",
+      "document_id": "DiWKdY1mKo7r6rxafgFcNLR1nbb",
+      "revision_id": 44,
+      "content_sha256": "dd30c98c36fca19ac7e032367377ec28cf28d71d24f74d87c8cf9b8ff8f93def",
+      "comment_snapshot_sha256": "1c071c7aa36534550d052245d520c6db6509eb32500029ec56144510350abc6c",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Epf7bhOJZoC7kJxdFbtcezDdnKe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "00c6213948c98779424c27b8c7d7b0f8e5da99322a92730cb62a8aaaa87ac826"
+    },
+    {
+      "record_id": "reczz28MSdgKDyFS",
+      "case_id": "C012",
+      "creator": "蕊蕊",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/HkJMdR1LioimJexYe0acuTRgncb",
+      "document_id": "HkJMdR1LioimJexYe0acuTRgncb",
+      "revision_id": 47,
+      "content_sha256": "3890e357300c95e1018ad07211ac605abbdb083047e3b51eadb19889669b3add",
+      "comment_snapshot_sha256": "54d7eac658aee3f28449f350bbdfc2c3eef900c8efc93af6510d4967895edbed",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "YLwVbkvuzoctPgxP9qwcolicnnc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "1acc8166d7378325dd5f492f8f2ed6a9f04d369fdf86b2ff832ad4c24c4387cb"
+    },
+    {
+      "record_id": "reczz28MSdgKH0yI",
+      "case_id": "C013",
+      "creator": "朝阳不吐不快",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/IHzFd4gKRomwLNxXSBIc07K9n9B",
+      "document_id": "IHzFd4gKRomwLNxXSBIc07K9n9B",
+      "revision_id": 34,
+      "content_sha256": "683ed9a70ea8c6ef9ec9cb278cf79c07ceb228678b4bdb9a4e80cac914297b67",
+      "comment_snapshot_sha256": "19f4936f8825d42c3a8be23004e1462fe94d0d251f81f140bc5e258dd9a80dc6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "VXxrbOdtOo7c8GxG6HncBA8Znnf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "be0c9f85a8df95b2bab7209d6f4489a32f47862a8c7067d480094c392b5a252d"
+    },
+    {
+      "record_id": "reczz28MSdgKGLKd",
+      "case_id": "C014",
+      "creator": "小弈小弈",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/LOWsdLSsFoac4dxavxvc53oJnlH",
+      "document_id": "LOWsdLSsFoac4dxavxvc53oJnlH",
+      "revision_id": 30,
+      "content_sha256": "cd155dd4de07c7e2aa49985a743e5ae1dacb11d0779a32e5004f56ea28c72c33",
+      "comment_snapshot_sha256": "761554c13833035ab3a75f42ca617df875fcee954c07e7890c46d8aedfd30d57",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "CeR6bjzeoow6ixxWYk4c8KeAnNg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "b4a37825a4af7fd9a2bc98e20a5702fc83e66144ab8586988d62408ba0e84780"
+    },
+    {
+      "record_id": "reczz28MSdgKDA9X",
+      "case_id": "C015",
+      "creator": "小风同学",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/QsgzdruZ0ozmBRxZxDvcu545n8k",
+      "document_id": "QsgzdruZ0ozmBRxZxDvcu545n8k",
+      "revision_id": 15,
+      "content_sha256": "a7319f3f89e44f8ca2b0058b7a74b6a50fcb8129fdf530c073bf9b1f3de00758",
+      "comment_snapshot_sha256": "57ec43bd384f4b77564d1b19065019a5dcae18e58a8cf3933e88cb9930ff2722",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Ix8Qbnn3qokVlvxnLg6cJv5cngN",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "de88d843d9ceaee8e2e802f0319d3d710cf562a7399022cf44d5560e791adf8e"
+    },
+    {
+      "record_id": "reczz28MSdgKCy8E",
+      "case_id": "C016",
+      "creator": "君泽",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/XWUmdAXPMoeQ8CxeyUkcAGxXnRG",
+      "document_id": "XWUmdAXPMoeQ8CxeyUkcAGxXnRG",
+      "revision_id": 127,
+      "content_sha256": "bf4aeee204480757ddfe1611e825b57753c50a3f13c9d3f5b0d68a4eb25592f2",
+      "comment_snapshot_sha256": "4cfb6c0d184e609b434b929a96d537fec84487939456ce12bc4ed15d515c3105",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "TOaTbdEVNoDXtzxdTAJcuD2cnQX",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "80dd9a724e5ac17d86c9a5679d22bf405e8287bce958cfe3b98e2088134877a1"
+    },
+    {
+      "record_id": "reczz28MSdgKDzor",
+      "case_id": "C017",
+      "creator": "不老BuLao",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/O4okdePSvoGtSFxkS5NcyIwsngf",
+      "document_id": "O4okdePSvoGtSFxkS5NcyIwsngf",
+      "revision_id": 16,
+      "content_sha256": "eb7e84da3ff060be02f90c7ffe6ba102c073ff7754b9ac9e4af0227b3dbad170",
+      "comment_snapshot_sha256": "17c5b46c7ecce831d349d2abf88ef2171f23bf7fc8475bc25400f622663f8dd3",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "YacnbLw1moUF2Rx2jNvcjnLAnAd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "964fdb34a7572529e52e068b0a151c2b48f058a2c1be355877f25cef4da2b5d5"
+    },
+    {
+      "record_id": "reczz28MSdgKEgas",
+      "case_id": "C018",
+      "creator": "飞谈数码",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/XMiWdKgQMoUrDAxvF3RcWKpindd",
+      "document_id": "XMiWdKgQMoUrDAxvF3RcWKpindd",
+      "revision_id": 72,
+      "content_sha256": "cc4bd2ca1bd55af32cb768a9b226ea88dd149df3b37de74afbaa2b2de4adde7f",
+      "comment_snapshot_sha256": "0df466b330ce2b50be18c14b6eaf62f00128f0d8e41c4700e6aa18935aa5f311",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "D0VDb9Z6GolZbfxm4eBcjGuXnqh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "9b0737538f3cb2843e3bdea3d1d78a98a7b7c755129eda9812f0ce9ff0980394"
+    },
+    {
+      "record_id": "reczz28MSdgKFoY9",
+      "case_id": "C019",
+      "creator": "你机哥pro",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/UD4LdqrhNo3BnyxX1VpcgZzun6d",
+      "document_id": "UD4LdqrhNo3BnyxX1VpcgZzun6d",
+      "revision_id": 68,
+      "content_sha256": "1be586fd6a6a2a4ecf83007b1baa3869fd9cd8ef8501a90c1dc212fb54e2f817",
+      "comment_snapshot_sha256": "96ef04ec64546628142b3948c8ed0b620da10488ae5fa416a376537c99096aa3",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "HXg0bPJ2SozTMxxXmyjcK91Bnvg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "8f3f0807bae24bc01c64632da6e5f3b2efedbba6b3d10b807fbc9258b8d06958"
+    },
+    {
+      "record_id": "reczz28MSdgKFgAz",
+      "case_id": "C020",
+      "creator": "小石谈AI技",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/SzExdO9Zlo3bvHx0p3icCvemnGd",
+      "document_id": "SzExdO9Zlo3bvHx0p3icCvemnGd",
+      "revision_id": 164,
+      "content_sha256": "e2aa6aea2b8612618ad83da0a6747ef944e6fd5d0b63e309ded83462ac5e3f6e",
+      "comment_snapshot_sha256": "969c431f1ff00da99f1d08d538b82f7bf60b0c69c2eabf7bcc2623048e22df6d",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "VNmrbsHAnoNr1KxqOq1cSxOdnOe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "d66d733efc6b86250f87372f6c16ae2d7393c808412bae589b848b2b51069a84"
+    },
+    {
+      "record_id": "reczz28MSdgKDtDB",
+      "case_id": "C021",
+      "creator": "赵粒粒",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/BATQdbh3poJYZXxVLo5cszfsnib",
+      "document_id": "BATQdbh3poJYZXxVLo5cszfsnib",
+      "revision_id": 13,
+      "content_sha256": "f41dd119bce7d86bf15adf80eb0aa1a8759f506965c047600727da6728eaa986",
+      "comment_snapshot_sha256": "acb4db519b2e8f1a2cdba8da15a3c818fd70c5bea1caf1c12f93f0bfc1b9b9b6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "VJBBbQlOzoueS2xL0xVcy5O7neg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "084c19fb802509e722e574221cadd4fe77f675c80e66c67c9aa110a993ea1d9a"
+    },
+    {
+      "record_id": "reczz28MSdgKDKDR",
+      "case_id": "C022",
+      "creator": "露露Lulu",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/OxBudArYkonNj0xrTx3chEhHnBf",
+      "document_id": "OxBudArYkonNj0xrTx3chEhHnBf",
+      "revision_id": 96,
+      "content_sha256": "d725498ab2403a3f26ec8a752d19efb05c599e167fc8ea0e4fe0fac91c36c787",
+      "comment_snapshot_sha256": "ac73349d605360e964aa1fd4fdae7218f7325189cd9caca7976958979ecdf2a9",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "WopAbjMLhoxajtxoBV4cX8iunIh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2c9bb9e9a57f6158331e0ded0d5b0e1de613cb062dd60681646f37e090148214"
+    },
+    {
+      "record_id": "reczz28MSdgKH56p",
+      "case_id": "C023",
+      "creator": "杭漂熊",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Uzoyd9WNyoLE0nxTs9YcWgZFnvc",
+      "document_id": "Uzoyd9WNyoLE0nxTs9YcWgZFnvc",
+      "revision_id": 37,
+      "content_sha256": "89082f239735aed2e8a9bdb65daa19174eae5825551b056784c8c91865ef49f0",
+      "comment_snapshot_sha256": "497a1581235a6db72066f0cf2d95a2169dbddc72ff7ff1454476365ff538b349",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "RhxCbyIu2on7dxxka88chtEtnGh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "01e6f8f48c1768b9d55cad1a6f1dc8274693df9a86777e5aff13b60614900c2b"
+    },
+    {
+      "record_id": "reczz28MSdgKH5DI",
+      "case_id": "C024",
+      "creator": "瓦伦爱说",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/PrKndbMPLoH9OwxnbEpcwTjFnyA",
+      "document_id": "PrKndbMPLoH9OwxnbEpcwTjFnyA",
+      "revision_id": 141,
+      "content_sha256": "ba049688ac9d74bbcd72f15d7a3f3c19c455f9726e14a3e9eb7f5a3da17579e0",
+      "comment_snapshot_sha256": "c8fbff1616af183df2e0a75ee54987dcb4dbb65e081a0a59f423aaeb8e05f652",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "HCwhbn7lAoWQFkxGjoncENODnfd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "18025e45e68e53c78419b9a3928bd19dcce4516feaa07ad4ad025298d33f9ac5"
+    },
+    {
+      "record_id": "reczz28MSdgKG6Qc",
+      "case_id": "C025",
+      "creator": "🍡丸子不是圆子",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ZIZ7d9clQo8w2JxMmZGcJKRpnEb",
+      "document_id": "ZIZ7d9clQo8w2JxMmZGcJKRpnEb",
+      "revision_id": 46,
+      "content_sha256": "4f367eded32add2dfb2304deb6a95953a7abeebf0ed39c903c4a6081d6ee58e9",
+      "comment_snapshot_sha256": "13ea7af867bf70199864c28e4b47481e8640619835e1de47d97446e394b1aa38",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "SshabswExoB5FpxsNsPcRyFNnih",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "e80db2221feb6652d89442eb9ec6f07a2142d5e52b90ef30747edbd93cd8fbe8"
+    },
+    {
+      "record_id": "reczz28MSdgKFdxI",
+      "case_id": "C026",
+      "creator": "小玖螺旋酱",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/IzIxdzZ47o8YxAxl8bOcivrVnfb",
+      "document_id": "IzIxdzZ47o8YxAxl8bOcivrVnfb",
+      "revision_id": 85,
+      "content_sha256": "ff1e2e53fa627ebf297209a1ea48f23df13a6e017304ba5ea9032dade55a837c",
+      "comment_snapshot_sha256": "5045962d84765c65459e1cb3f0a6d9778557170b2cb7a4740b1128e16e3fa7a6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "SXm3bYFURobUgMxJgu4c6guDnnc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "c69bdcf25a6538931122601094a45739b8961c4a4b9f153f01410039e976a3e2"
+    },
+    {
+      "record_id": "reczz28MSdgKG7yq",
+      "case_id": "C027",
+      "creator": "酸味柠檬",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/CDgkdG7nPoebPOxdr3nc1sRFnOb",
+      "document_id": "CDgkdG7nPoebPOxdr3nc1sRFnOb",
+      "revision_id": 49,
+      "content_sha256": "d95acaf3c8c26eaae21feef6af727f949fb2d5db08d692dabc288381955615d8",
+      "comment_snapshot_sha256": "113ea92276ae8fcadd4ae063188806f49e3df933c7ae3d90105d61de59c86b39",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "AdVObbSTYos4MPx2ltWc9KUAnsc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "ecdb2ea92c5d605b513aca7bb2f62b6d4f0288e06c90ba57bc7419320f30234d"
+    },
+    {
+      "record_id": "reczz28Mqn4ks4Sz",
+      "case_id": "C028",
+      "creator": "Will",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/YmQfdfzexoZtKKxI2A5c4LibnpK",
+      "document_id": "YmQfdfzexoZtKKxI2A5c4LibnpK",
+      "revision_id": 27,
+      "content_sha256": "26862ed0eb17a4ead2aee48ef14d349b2905d2ec77d821f775454782355d13df",
+      "comment_snapshot_sha256": "7197c6716df3dcc27dab29dc4a6b8ce274ff40d93d8c93e1c8f2cffce33ea8ae",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "YRAgbkZZDoeP3GxtxmkcLdmvnYd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2d55abf092695a8b7ef93909b71f2dff92bb347eb3f454d79c6b93c1e114fa71"
+    },
+    {
+      "record_id": "reczz28Mqn4kqpAV",
+      "case_id": "C029",
+      "creator": "猿叔搞钱日记",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/QWfFdf7ERogWdnxZBN0cvwPvnvh",
+      "document_id": "QWfFdf7ERogWdnxZBN0cvwPvnvh",
+      "revision_id": 27,
+      "content_sha256": "940961bbc1f0da1ca70063bf133c1762e6379368ad9ec462b0629bc65765dab5",
+      "comment_snapshot_sha256": "b0e57fc60eafe4961c9176b631b87d653db0bedc7f7bba40602e88f94e10566b",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "XyP3bqdTloBzPKxjlasc9bacnsc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "e7e92a4779f78ae58356f42ee67624897f96dfb64558280ee9f735147808b317"
+    },
+    {
+      "record_id": "reczz28Mqn4krzHH",
+      "case_id": "C030",
+      "creator": "小天_才超会的！",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/W6YFdK5eCo2CGBx2bgPcPCFrnNc",
+      "document_id": "W6YFdK5eCo2CGBx2bgPcPCFrnNc",
+      "revision_id": 8,
+      "content_sha256": "aada21fc2ba4beee8595d0cb07af38c36bcc00fb2ba9a8b18a93e2dde304bf3e",
+      "comment_snapshot_sha256": "2f2eb2ac3aa1ab2315ee9024ec586bb0e9d9b33a6ed7e188bd3fbcd94d9b99a4",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "M9fUbpYJDo71cKxIH8hcXQtpngf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28P9fptj7v3",
+      "case_id": "C031",
+      "creator": "陈予桉",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/WFf9dpAxgo3ay6xscBbczt1dnmb",
+      "document_id": "WFf9dpAxgo3ay6xscBbczt1dnmb",
+      "revision_id": 57,
+      "content_sha256": "b99f1ec2120180b84c31d52a8e026d6e78a703e257b7d61bf25cc8ebe1f5a284",
+      "comment_snapshot_sha256": "cdf26cd567a9a52c73aafba0aeefebe4c31c2ae653d22d667e941b2ecf42a516",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Zc5YbVjfGoTLxZxelw6c5KjwnPf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "b108c1b37eadd96565811a703b41444bb738e03eaf78be9d82cf686b13ffd35f"
+    },
+    {
+      "record_id": "reczz28P9fptiZPW",
+      "case_id": "C032",
+      "creator": "一支霸王花",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/TPCMdai9FookAoxD9FMcstkrn7e",
+      "document_id": "TPCMdai9FookAoxD9FMcstkrn7e",
+      "revision_id": 72,
+      "content_sha256": "e4bbd6572cb62be53dfbc3968b9d05df0d720a7784ec4d12acbb17d46510b73f",
+      "comment_snapshot_sha256": "e7fc285b4e82a248c003f072ddb147efae4445caa2a0e7da2150040fb2c70ca1",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "CmhCblQiuo535oxlpNPcKqvnnPc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "62175880aa0d4405b378ead0aa9f4febd774d5dc279fbfb3773e3dd65cb1e394"
+    },
+    {
+      "record_id": "reczz28P9fptizMO",
+      "case_id": "C033",
+      "creator": "中南女博士小丹",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/TFz4dHBeMo48SlxSfI5cr8OnnXf",
+      "document_id": "TFz4dHBeMo48SlxSfI5cr8OnnXf",
+      "revision_id": 10,
+      "content_sha256": "2c153118381b790ce0a3db22c97d5e65cb52dbc47bb975adfa66c23f52261e5c",
+      "comment_snapshot_sha256": "d0fc4e1b2f9b615109e4324651d69b464d16f3c48245cfc4db3e319cfe012635",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "YvnubsFsvoK3n8xFyvScd7a0nch",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28P9fptg53A",
+      "case_id": "C034",
+      "creator": "方一隅",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/RKdNd3VaJopjYYxX4xnc8ZH2nQi",
+      "document_id": "RKdNd3VaJopjYYxX4xnc8ZH2nQi",
+      "revision_id": 12,
+      "content_sha256": "b3723c15b1e6389e8dd653b7f9c830442005180a403e689d4bab4bc15f67cef2",
+      "comment_snapshot_sha256": "cda83ddd9d9ee23103052edd76bd8c6d2d57878a0123510a2018014ab4ae1160",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "SQfbbRySIo1vKxxRYNYcDIqHn5g",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "6c34e084e9e2b151c600c01fa77bb503f1c2fef5d5218ae6b229524349f0dded"
+    },
+    {
+      "record_id": "reczz28P9fptgTcH",
+      "case_id": "C035",
+      "creator": "木木小文子",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Zzt8dgDEToR4vixSxavc5H6Bncf",
+      "document_id": "Zzt8dgDEToR4vixSxavc5H6Bncf",
+      "revision_id": 25,
+      "content_sha256": "6ddd215d45b64583e7e27ed202c0a79a80ff7830c48ccc4ebeed662116a97458",
+      "comment_snapshot_sha256": "d4d451f21090135c15cd71d37ae0c0c33df29f758660aa0ecb89cb374c35dea3",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Y66Vbbo08oDFzzxsKJMcRveGnld",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "ac3c130b41d3248a375d44783d7bdf6e0dcf3ef73bf3c439892e5f174e7c028f"
+    },
+    {
+      "record_id": "reczz28P9fpthKs4",
+      "case_id": "C036",
+      "creator": "向前用功读书",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/E49PdiZPsoRAEVxOHmrcwDNtnZf",
+      "document_id": "E49PdiZPsoRAEVxOHmrcwDNtnZf",
+      "revision_id": 44,
+      "content_sha256": "a693408575b184916fd003331681cbbc01756d009855180433d39cf3d05cc631",
+      "comment_snapshot_sha256": "8b34232e969fcb14873bf0ebe1ecff1460784c659284ca3dbccc94911d254921",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "CEqvbsV3LoY0WkxHFHDcE7OOnMb",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4a3608f8f310ffe60c6ce3cf77707a5ff90849e9efc62cf6c581903d02ecfb34"
+    },
+    {
+      "record_id": "reczz28P9fpthxZn",
+      "case_id": "C037",
+      "creator": "机识分子",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/CaMMdlvpqomOvkx6oUWcyyGFn2Q",
+      "document_id": "CaMMdlvpqomOvkx6oUWcyyGFn2Q",
+      "revision_id": 62,
+      "content_sha256": "5e41cb301af04a9a0291a7a5e50365b52130c07e31752ca4d6f8d723d1e53cbe",
+      "comment_snapshot_sha256": "733ea0eec5a2dcaabd493ee6903b1cb79b7bc74ce9522e30206c9e6f57312111",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "FUq4bau77ovgjlxytw0c1nqynBg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "f8f28ee242f742115445af556008f3002cc4d29821ff5750bedd4117c80f454d"
+    },
+    {
+      "record_id": "reczz28P9fptiUTF",
+      "case_id": "C038",
+      "creator": "阿涵",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/T4zSdrPUkoMCAOxtmwBcJRrrnMg",
+      "document_id": "T4zSdrPUkoMCAOxtmwBcJRrrnMg",
+      "revision_id": 23,
+      "content_sha256": "c5330b57bf96a17eb0225a921c911c8d8696a45868f2964f1fb9367321e1d4f7",
+      "comment_snapshot_sha256": "fd750765c2502005c898380afd3591c377d4b945d738e38574c2569683814f53",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Xr0FbQuJronesdx8G9scFRgwnKc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "506477f1b4fbeabc92c7dc8c367b122dbb8a759866b8616ea402cfb1ec24d41c"
+    },
+    {
+      "record_id": "reczz28P9fptgcaw",
+      "case_id": "C039",
+      "creator": "6seeyo",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Hri4dmg0ao8h7nxmHKucwOoIn7d",
+      "document_id": "Hri4dmg0ao8h7nxmHKucwOoIn7d",
+      "revision_id": 80,
+      "content_sha256": "5aeae4768c69d655e299d2590cdedeea9d2e540ea56c9dcdf64422b977a5a9a0",
+      "comment_snapshot_sha256": "9d45d5f119e29c59be25d5c902702f08a589e6e9e99250a0ab979f78e39d60e1",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "PbY8bPnV6ozpKBxqoMQcNKBcn8e",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "7724a6b34d986761e72b89b1405192cefeef97f9dbaed16d6baa35c6a0ec1ea1"
+    },
+    {
+      "record_id": "reczz28P9fptiRhh",
+      "case_id": "C040",
+      "creator": "阿阳搞机",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Od5KdUUmWodi4oxiORzcHlssn3g",
+      "document_id": "Od5KdUUmWodi4oxiORzcHlssn3g",
+      "revision_id": 29,
+      "content_sha256": "791707de4af26932ca2fd3cdcdf755c636193a7687a41f16cbf5ae37dfbf391d",
+      "comment_snapshot_sha256": "0faa33a332ace72d90980fc56dd7522d13fee9d421798fdf9bb0d74847f5630a",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Z1URbGXdQolsnLxZmewcRQHxnMe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "07abafb4a41505a1e7f24e531e5d9b154d8f8b1328432f631ad64e678ca567ae"
+    },
+    {
+      "record_id": "reczz28P9fpth11M",
+      "case_id": "C041",
+      "creator": "iPang科技说",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/M3UzdyvwjoC64zxXy32cJ3ZMnng",
+      "document_id": "M3UzdyvwjoC64zxXy32cJ3ZMnng",
+      "revision_id": 32,
+      "content_sha256": "0b3721e4a6d4c3170a7de8cd58eb483b6b25ba505c86c437d17eb3f46f78ce20",
+      "comment_snapshot_sha256": "cef4101c061a1c26f0db963aa68e780851657444d256da45aaf5dc6431a72852",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "FRBpbXZCcorPlBxTH4lcZVmtnRf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "cb56d3640053050fcc196ea946a490bc7c4164bc817481b6101de0a2a5e4c7f9"
+    },
+    {
+      "record_id": "reczz28P9fptjeV6",
+      "case_id": "C042",
+      "creator": "陈同学在上海",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/UT7udmNXVoWooqxhXPGc7gB0nKe",
+      "document_id": "UT7udmNXVoWooqxhXPGc7gB0nKe",
+      "revision_id": 31,
+      "content_sha256": "2b549a687021b09c7d72481721bd86568e21c40231a811ceaa41816d4d39f982",
+      "comment_snapshot_sha256": "beee819977eef9bf9396a00080d30150c90210e0d01dffa0e87509692db461c6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "S6xEbPF9eoCFlYx2C7tcgTHNnAc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "acc67ca9617f6c6c8ada6b735b8773f9b2154582f88485b99f988da411aaa855"
+    },
+    {
+      "record_id": "reczz28P9fpti62O",
+      "case_id": "C043",
+      "creator": "CICI池静然",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/PKe8dSg73oW6oGxI0MVc36xRnyf",
+      "document_id": "PKe8dSg73oW6oGxI0MVc36xRnyf",
+      "revision_id": 97,
+      "content_sha256": "3d77f18fad4329d2e504cb4805eca542ad11da2fde0c07089aed55bdf71fc2c3",
+      "comment_snapshot_sha256": "eea087a2ec2b71c964b4d7a7a49354276af2b8d8aadb3b01c34900b3366a0641",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "BF7ibuByuoIRMhxhsgqcDDUrnNN",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "16d8a110de8df9416bad196941c3413b4aa942263f3fe1517fa92346f3071f64"
+    },
+    {
+      "record_id": "reczz28PCvmzvm2V",
+      "case_id": "C044",
+      "creator": "德恩同学👩‍🎓",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/KFnDdWOAdo91tdx1fb6cJ9r0nhg",
+      "document_id": "KFnDdWOAdo91tdx1fb6cJ9r0nhg",
+      "revision_id": 24,
+      "content_sha256": "ec6baf9bba8c7c8c49c9626f3f0dded7382d02be92ab3be58f78b9d8a16d2fbf",
+      "comment_snapshot_sha256": "99fe354d5a4c569448fbfa9ca496f2530d2f2e684ff5ccedfbf52f30ab8e1fab",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "JTnIbrS6TozUUBxWhFYcRCPWnvg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "5f8416c569d847fc543efc478b12482080280aaa74bc476be098b2c6b3697f95"
+    },
+    {
+      "record_id": "reczz28PCvmzulP8",
+      "case_id": "C045",
+      "creator": "Y小烨",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/OIkCdYRo7oDSuSxcyelcQrWcnje",
+      "document_id": "OIkCdYRo7oDSuSxcyelcQrWcnje",
+      "revision_id": 27,
+      "content_sha256": "2758435d86dd1d0a75df11eea2271f70ff3aafa2c4269b4532a9dde47766a017",
+      "comment_snapshot_sha256": "e453979d8b213d6ef49988601af7de115ba292d3b4804a581baae31a87d20d51",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "F24XboR8Ko9aZnx7yn6cLEOwnTh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "ee8809a97d627cf5e046a2aec71af13e49aa4bee5e63e93d234940389c48b718"
+    },
+    {
+      "record_id": "reczz28PCvmzwrDc",
+      "case_id": "C046",
+      "creator": "Suki邪修英语",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/VyuidDgpPoZZ92xwx4McidGenKb",
+      "document_id": "VyuidDgpPoZZ92xwx4McidGenKb",
+      "revision_id": 48,
+      "content_sha256": "23a78d450340e691a98a7c962e4b728cc1fb9dfaebb3278699bca291f73cf001",
+      "comment_snapshot_sha256": "b581da4495033e46c489fcb92249001034aa6da1658fd508642cd53dd9a34db0",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "ZTzHb15fzowk5OxEXzAcN5Usnjh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2789c510ebbfb5dd70576bda7d31c133a1c5f7daacfa263d459ec35e6a53ac96"
+    },
+    {
+      "record_id": "reczz28PCvmzxGao",
+      "case_id": "C047",
+      "creator": "阿ming在努力.（易如反掌版）",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/T9uIdMXVJo64kIx9KWHcGEIQnTb",
+      "document_id": "T9uIdMXVJo64kIx9KWHcGEIQnTb",
+      "revision_id": 35,
+      "content_sha256": "afa118cb8bc8650251f2135b469e9d68ab899755f9b95924bfa2021e41e5a4e8",
+      "comment_snapshot_sha256": "a32c71bd0e6135d29e03a16be04d12b95289e5b3c3f84c8873357a810e2c737c",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Hhq9biLRwoH1xrx7ImhcB279nvc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28PX4bHISOL",
+      "case_id": "C048",
+      "creator": "解忧代码",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/S7NOdLostomFpUxNNSkcFZH5nqf",
+      "document_id": "S7NOdLostomFpUxNNSkcFZH5nqf",
+      "revision_id": 79,
+      "content_sha256": "12b7a9f35ebe093dd7a904c094c81949b178fff71f9d1c5e9b9cfa4ef55f665e",
+      "comment_snapshot_sha256": "246ea25951cdabccf0a0043bf1842cdc3437340b72f399c7a2191b0466ad1f01",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "IGwnbD2raoyWf5xClFRc94iMnVr",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "8bd18504dc973d52fc3629b5bc5e26c23023e3a3c2253cb48f31ff40a94dff4a"
+    },
+    {
+      "record_id": "reczz28PX4bHFxOA",
+      "case_id": "C049",
+      "creator": "阿拉探险记",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ZXWydjaKYoBjRxxlDx8chrHunYb",
+      "document_id": "ZXWydjaKYoBjRxxlDx8chrHunYb",
+      "revision_id": 21,
+      "content_sha256": "709ce4bd0f18a595874528a773866549f95f51a295e5c982170a1e4d3d0b205d",
+      "comment_snapshot_sha256": "cacae9085e2c472a9d1dde31e953606b7f2465b52fe1b7e35bc3ee8badba15a1",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "FlQUb3EMTobIXUxZqY5cW4ZZnLb",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "7fb5dc07fd22dd226deff614e5577abab89261981df80def452120fc3751641f"
+    },
+    {
+      "record_id": "reczz28PX4bHINm2",
+      "case_id": "C050",
+      "creator": "一只小璐",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/P56ydJIXOoug8CxIAjAcmX6TnBf",
+      "document_id": "P56ydJIXOoug8CxIAjAcmX6TnBf",
+      "revision_id": 31,
+      "content_sha256": "40ae215a9514cab9e755699df4a1a0e7ae706fe818bd181f6688e45b507e23e0",
+      "comment_snapshot_sha256": "dff5fac4f3013bfa3a4a564fc25512266376a056f5a8717542187c2212904669",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "CBXVbjyqroWk8rxpQ2gcOaeEnMg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "fdb20b9c254cb06d03ddfa7bbcc4e7fab79da39b0eff2db1626694339fcfc673"
+    },
+    {
+      "record_id": "reczz28PX4bHIy4K",
+      "case_id": "C051",
+      "creator": "竹上隐客惊雀",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/RdHDdL9csomb0yxybAlc4pGGnc5",
+      "document_id": "RdHDdL9csomb0yxybAlc4pGGnc5",
+      "revision_id": 18,
+      "content_sha256": "a55c476eca7ea122c51ca7da9f188729350cb50557e264ea098891f734c9a8bd",
+      "comment_snapshot_sha256": "d9ab34cc0359c490990ac8b02a59b22c4eb4913f42d95d7689f3f5d1c22b0704",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "V2M2bB0lpoXgNzxDcNkcDCXLnGe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "19c8b2fe7cca1a6076f53e7f684dd67171fe2012fd101908ae811f1e3e35fd0b"
+    },
+    {
+      "record_id": "reczz28PX4bHHqsU",
+      "case_id": "C052",
+      "creator": "瞌睡北北",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ZCIVdZ7jWoIz9Txd8LlcOWswn0e",
+      "document_id": "ZCIVdZ7jWoIz9Txd8LlcOWswn0e",
+      "revision_id": 21,
+      "content_sha256": "4de9d7850867a2ca68e385e4e5f562148e42a1f7597dffe878d2b1c19fd5300b",
+      "comment_snapshot_sha256": "4e1040334bdd542eb30e81515e4844fd5cd9127371ea0ee51b2dca5f00c81c49",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "ONQrbr8DRo77sYxVXUpc5bU1njg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28PX4bHGFEG",
+      "case_id": "C053",
+      "creator": "小狼日记",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/FPMLd0PA3oXgbVxwrw9cjoR0nAb",
+      "document_id": "FPMLd0PA3oXgbVxwrw9cjoR0nAb",
+      "revision_id": 32,
+      "content_sha256": "68d75e33862e9d88a067c1ddd8ca92954e47ca3581390bbcb2c303a4154b80a6",
+      "comment_snapshot_sha256": "a6ba9bc1728122b082647a0a72a21bc858afe27019cd6419bc8807e89ea23ed9",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "FQxxbWenToDog2xKv7qcgBjanTg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2e62bed4f2e38c21180ed0e4b8c7f3b044e5f3db568e2bd7786cb399d18665a6"
+    },
+    {
+      "record_id": "reczz28PX4bHGP4p",
+      "case_id": "C054",
+      "creator": "Ai脉动",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/X0YEdg7AYoKKA6xHAuKc4Rmyn0g",
+      "document_id": "X0YEdg7AYoKKA6xHAuKc4Rmyn0g",
+      "revision_id": 22,
+      "content_sha256": "5a0ecbf80669b0db9ca5617c474ec7ee6f37c615e75d5881240df5d8b7621ff3",
+      "comment_snapshot_sha256": "fed9346b0e1d0be42026e303d7880c466f17cc1701760344fc051bbeadfd2876",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "FaNnbi1IgooXpzx7hvscyORonEc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "10bd0c47e37d059c602aec0480d1c0d6259fcf00881245e40ec9802de4629280"
+    },
+    {
+      "record_id": "reczz28PX4bHItUk",
+      "case_id": "C055",
+      "creator": "胡闹科技",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/Y5RwdqRwHoEh3AxXd1ec3aZcnSe",
+      "document_id": "Y5RwdqRwHoEh3AxXd1ec3aZcnSe",
+      "revision_id": 54,
+      "content_sha256": "320a03c4e7d681f228f314e7c1a2e7ed047a84be432c9b63a4974b1d127ef44f",
+      "comment_snapshot_sha256": "3f8d9a456369961f225c34fa3dd77035b4b14131741d2b3c5ce1d1909d3d349d",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "S2qJbQjhzoZGqPxTrhJcxPqLnkd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "bff38d1dcc7bc298f111d8821a88aa8ed3de3a4081666af0a37942a6ba7f265c"
+    },
+    {
+      "record_id": "reczz28Pbdw4nvGy",
+      "case_id": "C056",
+      "creator": "洋葱学长",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/HuXXdVV0jolNyMxrNfScdogonph",
+      "document_id": "HuXXdVV0jolNyMxrNfScdogonph",
+      "revision_id": 123,
+      "content_sha256": "17ee6b384247312e3afa9a890ade88e0b44c544561025a3bac6c2f8cc856aa6c",
+      "comment_snapshot_sha256": "a6329d44a5b755700be67bf4448bbad48efbea895d1c00df33e62b7e473f20b6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "K63lbmLGtofqLHx3tjMcbZ9jnCf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "e00ad008ecd3db222136ac0540379f2aa66ab50b66f30c16487475cd30bb96c2"
+    },
+    {
+      "record_id": "reczz28Pbdw4nO02",
+      "case_id": "C057",
+      "creator": "张张下班啦",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/H6jddmnm5o3dIBx7saHcns8cnWh",
+      "document_id": "H6jddmnm5o3dIBx7saHcns8cnWh",
+      "revision_id": 17,
+      "content_sha256": "d2e5bd8ebf554a3ae32c0ac1120cd5c2fb9f37379c3f17dbd81ae47d75536c9c",
+      "comment_snapshot_sha256": "1afb0bbad3fa0855561eaa91018e6a5b70cf71a1e25904a5f0ba575a8de7ffc3",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "G8Wrb6eOnos85Sxitq9cI0hMnPe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "0bd1703363aedb489c5e643078a1091bb3a88383755a83275aa800c75f5f2d1a"
+    },
+    {
+      "record_id": "reczz28Pbdw4l77Z",
+      "case_id": "C058",
+      "creator": "嘻嘻小希",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/FrLzdamEloZsezxRJJAcLoNWn1b",
+      "document_id": "FrLzdamEloZsezxRJJAcLoNWn1b",
+      "revision_id": 8,
+      "content_sha256": "2e4e894a01f897cd023f7ad851dd7f434a576f232954cb26daf0a7b6ea12d07c",
+      "comment_snapshot_sha256": "dd8b8354e2508731faccd735ec279e078333a9bd0f4ac7af8068426767993ba2",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Q1hibyKNpopogTxExZecr0smnNh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "499cbb5cbbda9ce6f7a769dd1dcfe426186494ee00c25c1367ddcc1ae272d653"
+    },
+    {
+      "record_id": "reczz28Pbdw4mSwa",
+      "case_id": "C059",
+      "creator": "金轩闪闪",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ONLVdWFqDo3HTMxJQABc0Me7neb",
+      "document_id": "ONLVdWFqDo3HTMxJQABc0Me7neb",
+      "revision_id": 147,
+      "content_sha256": "7997f832245b2b80c2d9cdea4d72ef0cc593ce84a515c6ec497687cf0e66663d",
+      "comment_snapshot_sha256": "8f5ed959ac1de89dfa990dbba925b7357b4201215971ecb1d26b5b0e390004f8",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "INAtb1FCqoqprdxhAIuc8iqAn1d",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "1fdc3103cee18e4c03ee4f0f3c729d32f911b24d27f158ed60e112c6a67236b0"
+    },
+    {
+      "record_id": "reczz28Pbdw4m1q1",
+      "case_id": "C060",
+      "creator": "十一和蛋蛋",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/QBttdWvUWo8RpGxuCcMcIcQtnlg",
+      "document_id": "QBttdWvUWo8RpGxuCcMcIcQtnlg",
+      "revision_id": 20,
+      "content_sha256": "1e5dcef2b900815052a0814dad81084d29bf440aa3f509e69d9d427cf0b93a93",
+      "comment_snapshot_sha256": "85fb4cfc09893955f64e0173366ac137c7ef6cd350983fb18642ffdbc80d2d63",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "RuO5bEcrMo90PBx9SgGcEupznpd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "351e6beff37dcb32fc937cbd9c88e00e136785e2d9f6bd5a8daeb83c2deba602"
+    },
+    {
+      "record_id": "reczz28Pbdw4lvOj",
+      "case_id": "C061",
+      "creator": "小羊的vlog",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/RB0rd6ZvfoF4ufxEWPtcCCBAnKd",
+      "document_id": "RB0rd6ZvfoF4ufxEWPtcCCBAnKd",
+      "revision_id": 32,
+      "content_sha256": "5ef7fc23f5f8becc8fc3bb4eef3a22a3647ab22cedf2191eb631bc2d2cc9e439",
+      "comment_snapshot_sha256": "b2b4008a84bac7f5740ea81f85784864e036579ec6e054109420c94e3b262038",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "GqqObFChfoUdE0xc1AacD4gRnxc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "1edfd9c0392d44c7e6c0afbdc213980c9ac628af5e428be116807376dc2e8081"
+    },
+    {
+      "record_id": "reczz28Pbdw4lClx",
+      "case_id": "C062",
+      "creator": "GK超会玩",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ChEBdqtKpoTFqaxwLfEcqB2bnce",
+      "document_id": "ChEBdqtKpoTFqaxwLfEcqB2bnce",
+      "revision_id": 39,
+      "content_sha256": "ce423afc3f20d07e9ecf66fe25ec2d179b2dab5723fe36645a070a33b904cb6a",
+      "comment_snapshot_sha256": "29ecbc9b39d4c78b70ba1e2c927ff5445b7649f12335fbef6e7556e2776adc99",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "W8m6bGcnookgWbxlrfxcAmzBnfc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "48a3a9b666b7d1062595c0870f5c4c1b63648c3502cdf56bd9b80bb7fdac5ee7"
+    },
+    {
+      "record_id": "reczz28Pbdw4oWfV",
+      "case_id": "C063",
+      "creator": "吴同学好物社",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/WEl7d20V3o7oyfxkshCc4uCtnPe",
+      "document_id": "WEl7d20V3o7oyfxkshCc4uCtnPe",
+      "revision_id": 139,
+      "content_sha256": "0305a5ec3d31e5f53e20736f49eab6c2146e17b5d0726ec5b36ec396eb330a20",
+      "comment_snapshot_sha256": "0985b5c86f5c57f82d4e60fa8c1e9ccd3ff6fdbbeba7a68ad365b2e484dee78d",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "MPRVb4AcboW1GFxZhrMcIHJ5ndh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "19cac03c212ae3e4aa37abc0915e77a1473dff7b13273e4c3d699c833933ae2b"
+    },
+    {
+      "record_id": "reczz28Pbdw4olrL",
+      "case_id": "C064",
+      "creator": "聪明周",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/HAOudompNosI0dxclwbcWwicnjb",
+      "document_id": "HAOudompNosI0dxclwbcWwicnjb",
+      "revision_id": 39,
+      "content_sha256": "e724ab802dc01ea445b08a4f104c60dc8edf6a2eed119de8b62710b4c13545d5",
+      "comment_snapshot_sha256": "95502e2bc3c247b23f274ed6a19813c86428dd83089b65cba6e5da8855902b9e",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "IUlZbnqdMoyStCxiI4ucy7RTnBg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "2ff5b61060ba7e36fea512f00f02ae3b44b1b1d580e5616d3262142e65c0852d"
+    },
+    {
+      "record_id": "reczz28Pbdw4mHhm",
+      "case_id": "C065",
+      "creator": "小匪师兄（博士研究生）",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/KdWadDdEMor13SxPEnhcZvqan5e",
+      "document_id": "KdWadDdEMor13SxPEnhcZvqan5e",
+      "revision_id": 23,
+      "content_sha256": "45aaf3be2436132959b20c803701f1d3f7a0f891280e027dc4734674015a5762",
+      "comment_snapshot_sha256": "d7b2e3c10e9fc9730aa36c424123fddf28591d0d2e8ed4e3df96518f607a3fc4",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "TRBYbNtZHokbp6xpdPpcbDNunvh",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "0b6aad975fdd7cda93c86a34547cf1015bb37c3d31c9ba4110cad3dda5f3f68d"
+    },
+    {
+      "record_id": "reczz28Pbdw4ouTe",
+      "case_id": "C066",
+      "creator": "阿浩呀",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/F6TsdHQjyoa0SHxHicwcp9MenKc",
+      "document_id": "F6TsdHQjyoa0SHxHicwcp9MenKc",
+      "revision_id": 17,
+      "content_sha256": "ad9b090d0f3a73d94051b2faa8003a5d922b58c0a4371fbe5540bda8e9b816a5",
+      "comment_snapshot_sha256": "a4a89b508ace558265d15418fbb90afcf221c23a6d95b6d83f8d1ef838c4880c",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "ZVu3bg5IaoirKUxAEeicKwZdnbf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "97e0fad21fb8f54d35857bd7dd13c5dec7a882e653c4a8b2539bc41c0fd75ffa"
+    },
+    {
+      "record_id": "reczz28Pbdw4m0OW",
+      "case_id": "C067",
+      "creator": "小阿兜 ",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/YE2Qd4NiHo1yXZxRBqqcwVZench",
+      "document_id": "YE2Qd4NiHo1yXZxRBqqcwVZench",
+      "revision_id": 12,
+      "content_sha256": "9b1ebd37c3d64d3b99b2c0efcbacb049a36d54612c2593f2e61f3eab9c575132",
+      "comment_snapshot_sha256": "3af27fcbc4c1c92d21c1417518f5930c5ea63634631b8783b45e204d1e949101",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "VtSsbp7o4o2EFrxvH4FcK0Xin9c",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "3d771866f1d0763de0b1b6d41674e298a1c5c10a4296730ecbd8c8a949ec8bd3"
+    },
+    {
+      "record_id": "reczz28Pbdw4mXnP",
+      "case_id": "C068",
+      "creator": "芋圆十三姨",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/JpWrdXNTjoP9Nqxb2ELcScckntc",
+      "document_id": "JpWrdXNTjoP9Nqxb2ELcScckntc",
+      "revision_id": 16,
+      "content_sha256": "57e1a1a0a2ce8ed3e8f737050fa59d55ec3354cc66d07f336d965e81eaf40b8c",
+      "comment_snapshot_sha256": "cf0d4f507812c4bd42a322e15893f4e138b2fb4309b7a9148c66108ef0da1d5e",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Y126bUXc4oC77HxJS3vcyjjrnbe",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "79bece18e654bf19532c0104ce41d25a8b38a3390190bedcd64370e25ba75d4c"
+    },
+    {
+      "record_id": "reczz28Pbdw4lpYe",
+      "case_id": "C069",
+      "creator": "康康大厂动向",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/LmoWdGw1SoWDEVx86tccmh3PnuV",
+      "document_id": "LmoWdGw1SoWDEVx86tccmh3PnuV",
+      "revision_id": 93,
+      "content_sha256": "db4ffa8b620a7fa5ebff659908cf5999d7d7905510ce705b2e1e4f3017993e08",
+      "comment_snapshot_sha256": "00f818d3af653e1566692ebd59f99c77604eb7f4dab419ec53f7f369cfd53382",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "UJwab55AYoGHv4x0SJLc2Y6wnvf",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "7eb0d69b0aefc52686c6820c2d27065df375fe1d234dc1e30f58c565f293c256"
+    },
+    {
+      "record_id": "reczz28Pbdw4mCAw",
+      "case_id": "C070",
+      "creator": "青椒姐姐",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/VfKZdjKj1oquZlx304lc8Xwgnof",
+      "document_id": "VfKZdjKj1oquZlx304lc8Xwgnof",
+      "revision_id": 32,
+      "content_sha256": "febd3d7ddd343a0f24370f57d825db6eea45a4ea4e9ccdd6cb945d0ebd947712",
+      "comment_snapshot_sha256": "ce86149aec222f36b6d08d04f5f5d5bfaca9f04c144e81daeeb17b30bdc26269",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "VuxubLxT8oQNmKxikn3c0TUsn0c",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "83dd8e5bd5e2b07002bfb559ff803c11e5808973a66d610a9de4f810652afdde"
+    },
+    {
+      "record_id": "reczz28Pbdw4lhJz",
+      "case_id": "C071",
+      "creator": "谢老板",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/TfYJd44HWojlOixYErlc0KTangd",
+      "document_id": "TfYJd44HWojlOixYErlc0KTangd",
+      "revision_id": 104,
+      "content_sha256": "473214d8eaf0dfffe639138d81449d89b2cb32680853c40a32b0000890c6232f",
+      "comment_snapshot_sha256": "b1c61259817c3e8b9ee804c845884aed295fcde0aeea54547ea14baf5ac73c7a",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Li2GbyAUIohNfExFiUUc5Dwdn5d",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "7ab93643113b638ccca329a76e65303012d2890828291e4616996baee3bde884"
+    },
+    {
+      "record_id": "reczz28Pbdw4oaZX",
+      "case_id": "C072",
+      "creator": "敢敢创业日记",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/J37Qd73l4o4RyOx2Vo9cP2lJnFf",
+      "document_id": "J37Qd73l4o4RyOx2Vo9cP2lJnFf",
+      "revision_id": 46,
+      "content_sha256": "8a2cf92932b81287d00c1fc3911b3135dfca911430a00b746feb3dec7ffaac3c",
+      "comment_snapshot_sha256": "39546743db2db099e5cab9e033d0afa669104222b9185eb4d684162cf8eb8528",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "TsR5bdBg8osOLdxISzoc6Smtn9f",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "71ba33dd9dc13d7abca53048b19340a54825711fa3107d58d941a47977e62584"
+    },
+    {
+      "record_id": "reczz28Pbdw4ovNl",
+      "case_id": "C073",
+      "creator": "哈工大傅学长",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/ZpdqdPnn2oT0mlxfRktc6JS7npF",
+      "document_id": "ZpdqdPnn2oT0mlxfRktc6JS7npF",
+      "revision_id": 10,
+      "content_sha256": "86895ecd13e81f0cb7092d9a7622a145279581945a11364c6070f4deef6db7a4",
+      "comment_snapshot_sha256": "e68683fe88025cd679f85fbd47eca58182785d2880dab1aa1994355f8529a22a",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "WdfYb5S5roWgfUxdpHScQrIenT1",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28Pbdw4okKS",
+      "case_id": "C074",
+      "creator": "鱼仔不摸鱼",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/JVcNdYzVCoCTyWxgDgpchAZenpe",
+      "document_id": "JVcNdYzVCoCTyWxgDgpchAZenpe",
+      "revision_id": 34,
+      "content_sha256": "5144218657647c01e3d84cddf48c94698d5fa624b8e0189c51d90bfda25e05ee",
+      "comment_snapshot_sha256": "4ec5012fc9294972c695dca7f20cdebcc23a44b51762d812a125c02b7d7b3ddb",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "Ltz9bBwWkoS5e6x8U8Kc3zfNn2g",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "421c85728a9ac9f157ccf08b8b841138887d95ecaea5d2cdb31207a32150dd22"
+    },
+    {
+      "record_id": "reczz28Pbdw4n9sm",
+      "case_id": "C075",
+      "creator": "Yan子坤",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/FBG1drk2loMQ4hxe6Ctcw1VonNK",
+      "document_id": "FBG1drk2loMQ4hxe6Ctcw1VonNK",
+      "revision_id": 24,
+      "content_sha256": "d8b386e9e1c399abab6b74c9c9982440974d77844b4a62cf5abcd164964799a0",
+      "comment_snapshot_sha256": "7f414e221f3527b4ffa13ae0a26353b6017caf1085c3fb2bcee7fe046cd5886b",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "QglKbWp0yo5k01xmgbCc7akLnCN",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "43c4a80bb180452e86436c97af9a29814806d388f13896388185019b520d640d"
+    },
+    {
+      "record_id": "reczz28Pbdw4oW8O",
+      "case_id": "C076",
+      "creator": "温柔芝芝",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/I4a7dVcagoMM7axp7K5czfbrnTh",
+      "document_id": "I4a7dVcagoMM7axp7K5czfbrnTh",
+      "revision_id": 28,
+      "content_sha256": "a2008a092e44327b890780a5f1fee7a07f4a443c667b7f479d8a9712197abc4b",
+      "comment_snapshot_sha256": "04d814e8bb7fad040fe888289c38a6f23f8bbd2b2d8626b7f296e522017f1c56",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "BbqsbX1TPoebtkxzDcRcxRJinfd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "d602de7ecaf7bf20e667279002643a02456ec8d4d6522bedad428febf0c61dd1"
+    },
+    {
+      "record_id": "reczz28Pbdw4llXj",
+      "case_id": "C077",
+      "creator": "云朵喜儿",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/L6Fkdk2aBoVf96xKjOJcKQhVnfc",
+      "document_id": "L6Fkdk2aBoVf96xKjOJcKQhVnfc",
+      "revision_id": 86,
+      "content_sha256": "dd135c1b7e76a54ad99c2ee145576c251e3549e71ced5dd7df22b11235ab36d9",
+      "comment_snapshot_sha256": "642f70fb2e28ae0896a9796fc5f3a5adfd31d72a07d486baedd1c03b30394b74",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "XHELbwhpiodDnMxV7sRc1IRBn9f",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "e2691a857c15ed991d1f206f5e9c1aa18cdb42cf0a8c641a482239618f5410eb"
+    },
+    {
+      "record_id": "reczz28Pbdw4nGFj",
+      "case_id": "C078",
+      "creator": "苏端端",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/QKP7drZ13oCzIqxYkqscxS3rnZi",
+      "document_id": "QKP7drZ13oCzIqxYkqscxS3rnZi",
+      "revision_id": 31,
+      "content_sha256": "060c9c3beab1602f6df9b505ccdcf2ceed83c229f59d8b842b9ac7c17cd761f8",
+      "comment_snapshot_sha256": "f75a5468580a645695a9540fa105d92908af09ef273ba65275569e7ca34a243a",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "D0zGb1yNcoFA9rxkqaEcLk27nLg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    },
+    {
+      "record_id": "reczz28Pbdw4mS36",
+      "case_id": "C079",
+      "creator": "赵震惊",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/CwpOdGNgyosWrgxCN5ocbi2GnSh",
+      "document_id": "CwpOdGNgyosWrgxCN5ocbi2GnSh",
+      "revision_id": 32,
+      "content_sha256": "b5fe2fe9e77993bd1e1c806e5121f2f21ad5f05ae45b464eae9224aff57d729b",
+      "comment_snapshot_sha256": "a3be0cc08568a5a9263ded1a6e60611f8afe7b2a74812982f369c7c21b98f6f8",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "T74mbE4q0o48VoxwjbMcvm4Wnzd",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "5cdbc9fd11677e31cc802778f985455fe076d4b0c08783e790a79ff4638475a5"
+    },
+    {
+      "record_id": "reczz28PuN0GGcJn",
+      "case_id": "C080",
+      "creator": "超哥偶尔也吃点儿甜的",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/HlWWdj33bodlErxtOPnc63gunkg",
+      "document_id": "HlWWdj33bodlErxtOPnc63gunkg",
+      "revision_id": 17,
+      "content_sha256": "b670fa1cad219bc811071e298c4484a9d96fc337a042cd70b784d57b57ea59d8",
+      "comment_snapshot_sha256": "1818200affbbec31bb481483373fb2c0e011453e445e9bd6fb6555b9386a6f6c",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "NCZdbGc6eov2IexEjP8cgB2inI1",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "1e5ae843d4e530e8cec19e6e7e2a1ef9eff0fb81d52b7b71745b8d5ef0f64b12"
+    },
+    {
+      "record_id": "reczz28PuN0GIwyw",
+      "case_id": "C081",
+      "creator": "曼达明白",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/G4mVdsx9Do7iRaxAM7QcdxTpnge",
+      "document_id": "G4mVdsx9Do7iRaxAM7QcdxTpnge",
+      "revision_id": 18,
+      "content_sha256": "55265913d66f51c6160eb6d7784a437833b42211f3972f5793863aa607400bf5",
+      "comment_snapshot_sha256": "8377c62b312538891116c511c35c7949ea6b56bfeb67239dac38cb300197f7d6",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "G1vAb1Og6onpFRxgsfBc5PtLnSc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "dfb342767987349e687b2bcd417e446c9e0b99ca1be2693ef9e21c6a7779b047"
+    },
+    {
+      "record_id": "reczz28PuN0GJF8J",
+      "case_id": "C082",
+      "creator": "绿手套子🧤",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/UxkTdkthXoKQZfxmyoacrFIwnXV",
+      "document_id": "UxkTdkthXoKQZfxmyoacrFIwnXV",
+      "revision_id": 27,
+      "content_sha256": "c100c33abed1b7c09311e46ef342553a385db3d9c17a8475bcd233544167ec0f",
+      "comment_snapshot_sha256": "d3781dc8244d8440f6c2168c1db04fc57aa1cd387d81c1dbdc8d39956ff9f57e",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "JKVhbGJiVoCzyZxFduacpYpGnSc",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": false,
+      "public_comments_sampled": false,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "75558f75db914a9ee4b866a7b3a2940b7859d73fe5246b48df1a40db009d6984"
+    },
+    {
+      "record_id": "reczz28Qo7BeyYSZ",
+      "case_id": "C083",
+      "creator": "西西在上海",
+      "script_url": "https://zqyd2vqyqmy.feishu.cn/docx/OtaCdwvjkoO20QxmxsMcYbJ7nLc",
+      "document_id": "OtaCdwvjkoO20QxmxsMcYbJ7nLc",
+      "revision_id": 12,
+      "content_sha256": "1c588a27435ca2cdfb9f7b54b71f551ced2b82b3140140ef601bd69ff0455f7d",
+      "comment_snapshot_sha256": "1817a66d5b38d2618db7dd6f7004198bd152dd5df23164ef71d769725d75523e",
+      "learned_at": "2026-11-04",
+      "learning_status": "learned_with_limits",
+      "video": {
+        "primary_file_token": "BCinbSvJxoaH2XxFQSjcSEl9nWg",
+        "method": "15_sampled_frames_and_machine_asr",
+        "full_motion_audio_review": false,
+        "published_same_version_verified": false
+      },
+      "public_page_opened": true,
+      "public_comments_sampled": true,
+      "remaining_limits": [
+        "Historical video review is sampled frames and fallible ASR; not full human audiovisual review",
+        "No full account history audit",
+        "Public final version equivalence not fully verified"
+      ],
+      "fingerprint_version": "feishu-content-comments-v1",
+      "comments_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+    }
+  ],
+  "pending_items": [],
+  "counts": {
+    "baseline_records": 83,
+    "comment_cards": 244,
+    "selected_history_snapshots": 407,
+    "video_attachments_sampled": 92,
+    "public_pages_opened": 21,
+    "public_comment_samples": 20
+  },
+  "notes": [
+    "Source fingerprints support change detection; revision/time changes alone do not imply new substantive requirements",
+    "Do not mark unverified audio or final versions complete",
+    "Do not refresh all 83 videos every week merely because coverage is partial"
+  ],
+  "fingerprint_protocol": "scripts/fingerprint_sources.py: feishu-content-comments-v1; old comment_snapshot_sha256 retained only as raw snapshot provenance",
+  "governing_documents": [
+    {
+      "source_id": "agency_brief",
+      "document_id": "P4cAdKXRJo6mZ1xE0yXcCp50nA3",
+      "revision_id": 1767,
+      "content_sha256": "5b59a63c4ec5f944e28fff82e60c5e1d20bb2d0e3a5deba8f12d58c561b1e92d",
+      "verified_at": "2026-11-04T23:44:44+08:00",
+      "coverage": "full_document_text",
+      "changed_since_initial_learning": false
+    },
+    {
+      "source_id": "creator_brief",
+      "document_id": "LOggdkMujokCnyxwdH9cKS0hnTd",
+      "revision_id": 129,
+      "content_sha256": "c7c8e334755f7c63f253c66a5c27b1dbd0fdf68c750a4f1194a73edb1f3400b3",
+      "verified_at": "2026-11-04T23:44:44+08:00",
+      "coverage": "full_document_text",
+      "changed_since_initial_learning": false
+    },
+    {
+      "source_id": "redlines",
+      "document_id": "AAIkdB4w3oBRLAx8g16cq30pnBd",
+      "revision_id": 435,
+      "content_sha256": "87462d1fc11bc3ced7a1e9c2db6bd745b4e50d9c37a5e5188571231283a3a8fa",
+      "verified_at": "2026-11-04T23:44:44+08:00",
+      "coverage": "full_document_text",
+      "changed_since_initial_learning": false,
+      "embedded_image": {
+        "file_token": "Z7IAbCbEHomNFpxYiCZcOdcvnF6",
+        "sha256": "0d28efdec3e85101bb20f5ec693373d074d1b772d23dff9a7e7893583bad3f41",
+        "viewed": true,
+        "purpose": "opening forms and D exception requirements"
+      }
+    }
+  ]
+}
