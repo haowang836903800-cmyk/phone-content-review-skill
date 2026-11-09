@@ -30,7 +30,8 @@ def comments_fingerprint(data):
             raise ValueError("duplicate comment id: " + cid)
         ids.add(cid)
         reply_list = item.get("reply_list", {})
-        if reply_list.get("has_more"):
+        # Some list-comments responses put reply pagination on the comment itself.
+        if item.get("has_more") or reply_list.get("has_more"):
             raise ValueError("incomplete replies for " + cid)
         replies, reply_ids = [], set()
         for reply in reply_list.get("replies", []):

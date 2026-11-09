@@ -1,5 +1,5 @@
 {
-  "snapshot": "2026-11-04",
+  "snapshot": "2026-11-09",
   "project": "Doubao phone, not Doubao App",
   "refresh_required_before_new_review": true,
   "sources": [
@@ -19,91 +19,148 @@
       "id": "client_base",
       "title": "甲方已发布表",
       "url": "https://zqyd2vqyqmy.feishu.cn/base/Ywpib0LB4anrC3sZI0McgJ00n6f?table=tblS7VpJMd2uS8tl&view=vewXIamkSO",
-      "scope": "2026-11-04基线83条；每次按实时已发布状态全量分页，不以83为上限，保留原始链接与指标"
+      "scope": "2026-11-09全量114条已发布记录，1页has_more=false，含晚填与日期空缺；按record_id去重，不当作114名独立达人"
     },
     {
       "id": "test_base",
       "title": "玩法测试表",
       "url": "https://zqyd2vqyqmy.feishu.cn/base/Lw5FbEVziaEfoysgqZlc3r81nbc?table=tblInpg2tLlt0JKg",
-      "scope": "2026-11-04基线98条；每次刷新全部记录，状态、结果、失败环节、是否可推分别读取"
+      "scope": "2026-11-09全量98条，1页has_more=false；仅PDF和拼豆可推字段由pending变空，非新跑通证明"
     },
     {
       "id": "agency_brief",
       "title": "机构版Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/P4cAdKXRJo6mZ1xE0yXcCp50nA3",
       "scope": "三类达人与合作内容基线",
-      "last_verified_at": "2026-11-04T23:44:44+08:00",
-      "verified_revision": 1767
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 1981,
+      "content_sha256": "a37c02c109e1b2c3c8988f7e8eb01bea927860cff77976522ae8166a5ae39111"
     },
     {
       "id": "creator_brief",
       "title": "达人版Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/LOggdkMujokCnyxwdH9cKS0hnTd",
       "scope": "达人理解与拍摄参考",
-      "last_verified_at": "2026-11-04T23:44:44+08:00",
-      "verified_revision": 129
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 161,
+      "content_sha256": "650d90495e7d2241275f14a339c90734dcb50de5899b45efee219c481f45d93b"
     },
     {
       "id": "redlines",
       "title": "机构红线规范",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/AAIkdB4w3oBRLAx8g16cq30pnBd",
       "scope": "项目要求，不冒称抖音官方规则",
-      "last_verified_at": "2026-11-04T23:44:44+08:00",
-      "verified_revision": 435
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 524,
+      "content_sha256": "802de82aefa2f550bdbaba4e72597af510650a388606e86161e269c7a660718e"
     },
     {
       "id": "wave1",
       "title": "第一波Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/IzqjdROsoolPOlxKhTlc0MApngg",
-      "scope": "历史适用场景"
+      "scope": "历史适用场景",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 754,
+      "content_sha256": "0d01256a495c4b0152615219327ca3dabb51032e8cf54f2a84c9df7d5a90114d"
     },
     {
       "id": "wave2",
       "title": "第二波Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/PJZ8dye1xoMjiVxiohQcHbeRnsc",
-      "scope": "历史适用场景"
+      "scope": "历史适用场景",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 826,
+      "content_sha256": "b15effad9ca394d56fea5e5f8c0b7c36574acf7b34f4d62bb527dc41c6c8fca0"
     },
     {
       "id": "wave3",
       "title": "第三波Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/R9hldOt4moxH7ZxfT0Ict00mn4c",
-      "scope": "文件与表格波次日期口径不一，按本次任务确认"
+      "scope": "文件与表格波次日期口径不一，按本次任务确认",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 520,
+      "content_sha256": "a18024688bc8e48ff25f159b85878e9fe63ed74412bb4d2cb85b1c0599ac3109"
     },
     {
       "id": "wave4",
       "title": "第四波Brief11.9-11.15",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/CY1PdyULzoUy9Lx2S9hc5jYlnQd",
-      "scope": "11月4日时为后续一波，优先本机与读屏"
+      "scope": "11.9—11.15：本机/单屏识屏、动态壁纸优先；拼豆明确推荐试题，仍需实测与结果核对",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 332,
+      "content_sha256": "8abe6b681653c802d6ac62b4e612f1ffe03c0274d343759a46ebd3290350e80c"
     },
     {
       "id": "miniprogram",
       "title": "小程序专项Brief",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/BVoYdo8XWoKuR4xvCEQcZjhingh",
-      "scope": "专项30秒以内、问答和服务连续衔接"
+      "scope": "专项30秒以内、问答和服务连续衔接",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 38,
+      "content_sha256": "7a2ba40d8bf2e93570c30c8a373f116869550dd9b10f13c32a722849d14e0338"
     },
     {
       "id": "gameplay_reference",
       "title": "玩法参考",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/MfcxdBCEGoRvrAxdbxIchbtynOd",
-      "scope": "与实时测试状态冲突时不机械沿用"
+      "scope": "与实时测试状态冲突时不机械沿用",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 554,
+      "content_sha256": "d731ebd13176dae387f337278c48338e1d85cc07ae533eadaec01dba031f7878"
     },
     {
       "id": "meeting1030",
       "title": "10月30日会议原始文字",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/G4bhdapTsoW8jVx5Ac3czMdJnHj",
-      "scope": "支持保留原生表达、删泛赞、补具体结果；说话人需原始证据归属"
+      "scope": "支持保留原生表达、删泛赞、补具体结果；说话人需原始证据归属",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 4,
+      "content_sha256": "e528d60d13c70b827fe64f082c10a2bc5a7c31a420cab43bebc836f62e4dd9cd"
     },
     {
       "id": "meeting1104",
       "title": "11月4日AI会议纪要",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/QjkidxB7VowMG7xeBoichslinqc",
-      "scope": "含姓名/判断矛盾，仅作线索，不独立决定复投或淘汰"
+      "scope": "含姓名/判断矛盾，仅作线索，不独立决定复投或淘汰",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 6,
+      "content_sha256": "987b47cc04931115da60c2ca06d840ed0d9e9e90e37c6e67ad015eaa24d1ded5"
     },
     {
       "id": "workflow",
       "title": "项目流程",
       "url": "https://zqyd2vqyqmy.feishu.cn/docx/AXfJdHJ44otOMMxCS9scoXgtn3d",
-      "scope": "供理解初审与甲方确认分工，不扩展业务写入授权"
+      "scope": "供理解初审与甲方确认分工，不扩展业务写入授权",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 91,
+      "content_sha256": "3a24dea3f0cac2e378dfb162ac8d23c68df08d3da2af791be265b390be1507ee"
+    },
+    {
+      "id": "wave2_retrospective",
+      "title": "第二波复盘",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/RdigdHhBDoT4SPxMS3ocjLODnt3",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 727,
+      "content_sha256": "7161716d028d37061475657887f3e3148e3af59ebe7b9967363d1e5026a77d96",
+      "scope": "Read project-relevant requirements; does not authorize operational writes or commitments"
+    },
+    {
+      "id": "next_wave_execution",
+      "title": "下一波执行说明",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/CxyAdBhBWojHE0xuw9XcYa1fns5",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 8,
+      "content_sha256": "087c044b9c04d2d3c5d371bba43b4f3ff3d9c28e078695173b8084e05b20ac36",
+      "scope": "Read project-relevant requirements; does not authorize operational writes or commitments"
+    },
+    {
+      "id": "sample_handling",
+      "title": "样机使用与拍摄准备",
+      "url": "https://zqyd2vqyqmy.feishu.cn/docx/H9OJdefujojbhuxUXthcIr28nlh",
+      "last_verified_at": "2026-11-09",
+      "verified_revision": 53,
+      "content_sha256": "42246ca16da3050dfe74eb613edb6fdf5dc0ec0782e2f737e1713e8cb91feefc",
+      "scope": "Read project-relevant requirements; does not authorize operational writes or commitments"
     }
   ],
   "case_source": "casebook.md",
@@ -114,7 +171,12 @@
     "407 selected revision snapshots from 948 history entries; not every autosave fetched",
     "ASR unreliable in C004/C012/C013/C041/C065 and several auxiliary clips; see case notes",
     "No current full account-history audit or causal performance study",
-    "No external tables, messages or publishing changed"
+    "No external tables, messages or publishing changed",
+    "2026-11-09 increment: 31 new records and 1 changed old attachment remain partial; no new full audiovisual review completed",
+    "One new public page (卡布) opened and visible comments sampled; the other 30 new pages not opened this run",
+    "Nine wave4 images and one redline image viewed; embedded/reference videos not fully viewed",
+    "Prior public-page and sampled-video counts above are the Nov4 baseline, not this run or 114-record total",
+    "No new creator ten-post baseline audit; do not classify new rows as performance good cases or recommend reinvestment from likes alone"
   ],
   "distribution": {
     "repository_url": "https://github.com/haowang836903800-cmyk/phone-content-review-skill",

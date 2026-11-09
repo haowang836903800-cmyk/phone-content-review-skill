@@ -1,6 +1,6 @@
-# 豆包手机｜83位已发布案例台账
+# 豆包手机｜已发布案例台账（114条记录）
 
-仅供内部学习。按本次已发布表范围，全部83份稿件文档和可读取批注已读（部分文档只有视频或不完整脚本表）；历史快照按最早及评论前后选取。视频为当前文档首附件候选的15点抽帧与全音轨机器转写（部分转写失真），另抽查9份历史/操作素材。**不等于全版本完整人工播放，不默认首附件就是公开终版。**
+学习用，非审核通过或复投名单。同一达人可能有多个记录。2026-11-09增量见文末，C001—C083以下保留2026-11-04历史证据与限制。按当时已发布表范围，全部83份稿件文档和可读取批注已读（部分文档只有视频或不完整脚本表）；历史快照按最早及评论前后选取。视频为当前文档首附件候选的15点抽帧与全音轨机器转写（部分转写失真），另抽查9份历史/操作素材。**不等于全版本完整人工播放，不默认首附件就是公开终版。**
 
 公开页实际打开21条，其中20条取得可见评论样本，C029评论未加载；另62条未核；主页链接保留原始值供后续选号，不声称本轮逐号完成日常主页审查。指标为甲方表快照，公开页另列，空缺不填0；加热空白不等于自然流量。
 
@@ -1635,3 +1635,421 @@
 **证据边界：** 当前文档首附件候选版；15个抽帧和全音轨机器转写，不等于真人全程播放或确认已发布同版。
 
 **公开页抽查（2026-11-04）：** [实际打开页](https://www.douyin.com/video/7704239701612466643)；赞/评/藏/转 159/14/26/13。可见评论问豆包手机价格、是否有此手机、什么手机；作者说明付款还得自己来，并强调是豆包手机。 仅覆盖可见样本，不据此鉴定流量或评论真假。
+
+## 2026-11-09增量：C084—C114，均为partial
+
+31条新记录的当前稿、批注回复和选取历史文字版本已学习。实际视频／原声、发布同版尚未完成；不能把下列文字观察写成视频通过。批注认可只是当时的个案意见。除卡布外，本轮没有打开这些新记录的公开发布页。
+
+| 编号 | 达人（原发布链接） | 原稿 | 表内赞/评/藏 | 波次 |
+|---|---|---|---|---|
+| C084 | [卡布 KABUKABU](https://v.douyin.com/WUfzAmHrJZo/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/UNoGd2mrvo3GMqxMoHHcGe8EnZd) | 263 / 38 / 16 | 第三波 11.2-11.9 |
+| C085 | [二腿黑猫](https://v.douyin.com/bf4JoMK-1jg/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/MNHcdunGioJXgCxVcJGc6Xx0n8d) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C086 | [坤坤数码（只抽粉丝）](https://www.douyin.com/user/MS4wLjABAAAAcVhzdr0PME6gIZF5u-D3tSowKHHr9GQGmnTp651v42E?modal_id=7704296760159841137) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/PXD2da3PPoYECNxb5gDcC8QMnKb) | 2393 / 96 / 286 | 第二波10.26-11.1 |
+| C087 | [深漂优优呀](https://v.douyin.com/L2R2xI0CSwg/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/XmItd44XToMh2txZiAdcvb9Gnhd) | 319 / 106 / 30 | 第二波10.26-11.1 |
+| C088 | [王小帅 ￴](https://www.douyin.com/video/7704281883660421107) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/CljMdmY5ZoDmD0xrOP8cNmt8nYf) | 1512 / 32 / 143 | 第二波10.26-11.1 |
+| C089 | [干饭小鹅](https://v.douyin.com/mZ-5q_ebl3s/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/QjuJdxe1YoYuMzxPdEdctio8nUe) | 1191 / 51 / 40 | 第二波10.26-11.1 |
+| C090 | [年年](https://v.douyin.com/tqTta9yURhA/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/Tj7AdWOsio1SDLxtdDOcopkZn8f) | 204 / 7 / 20 | 第三波 11.2-11.9 |
+| C091 | [大饼卷馒头就米饭](https://v.douyin.com/a1qf2NnUas4/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/V0Oed0fF5oSpe4x7sGQcoAbsnYd) | 583 / 47 / 20 | 第三波 11.2-11.9 |
+| C092 | [酸奶iris](https://v.douyin.com/ongX9FO6QWw/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/REogd8ugKoQ8jRximo2cYxOQnXb) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C093 | [杜晓晓](https://v.douyin.com/BWNYBTR0jEI/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/Tc3edMq9PoJ6O9xMZKfcQ62Nnzb) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C094 | [苏智贤.](https://v.douyin.com/dF1MmrdpkOA/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/NuendxaoqovpnCxklLzcUsernib) | 3075 / 53 / 109 | 第三波 11.2-11.9 |
+| C095 | [饿得啃床板（期待国庆版🥹）](https://v.douyin.com/eWYffaOwCRo/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/NPxwdzUHioR6Sqx0sFxcMcD2nhe) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C096 | [瑞子哥](https://v.douyin.com/EhdFjlT4J-w/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/B4yBdZyFUoMVAnxgqDucHxsznLh) | 54 / 2 / 4 | 第三波 11.2-11.9 |
+| C097 | [叶北北睡不醒](https://v.douyin.com/McogiNdXFpk/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/Qo6DdGflWoxnlMxr8KPcclQ6nfi) | 963 / 30 / 513 | 第三波 11.2-11.9 |
+| C098 | [科技狂人老罗](https://v.douyin.com/FmThAIRfJ44/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/KTMSd4AnwoOTQRxUT6WcPQGGnmh) | 1065 / 0 / 55 | 第三波 11.2-11.9 |
+| C099 | [刘易正_](https://v.douyin.com/l6K9dotNgho/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/OsKQdAfjoofcs7xor9vcP6iVnAb) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C100 | [大茶](https://v.douyin.com/KerSAc3oJYA/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/ElBOdXZBXoI01ExTFk6ctcI6nWd) | 1251 / 62 / 71 | 第三波 11.2-11.9 |
+| C101 | [西米鱼🐟](https://v.douyin.com/EIqF4IqMM-Q/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/FDVfd1IPcocBXyxtzTUc8FTBnKh) | 26 / 0 / 8 | 第三波 11.2-11.9 |
+| C102 | [良木缘2026](https://v.douyin.com/BwskzjIJGmw/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/GMFydB6E0oV7ozxf0YMcgGvjned) | 32 / 13 / 5 | 第三波 11.2-11.9 |
+| C103 | [露露Lulu](https://v.douyin.com/_VhSaBz3HFM/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/XmBRd2YJioNfprxaRmKcJvb1njf) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C104 | [茶妹生活日记](https://v.douyin.com/hXkuPGaeLbg/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/GjyWd6DECoMWj3xX5oKcV0YJnSd) | 1018 / 65 / 84 | 第三波 11.2-11.9 |
+| C105 | [六耳老师🦋](https://v.douyin.com/4-6_tGPbxxM/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/Jb7adOHLiofEhwxnYO0c9lOsngE) | 420 / 4 / 33 | 第三波 11.2-11.9 |
+| C106 | [虞虞日记](https://v.douyin.com/NWk_tYcK9MU/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/ZcpLdpMvjo0YtUxX7wYcnADKnRb) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+| C107 | [一只橘-微众](https://v.douyin.com/CPf2Har_tdw) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/DHxudU7t0o4rUpxnQNRcX9G1nGf) | 2718 / 21 / 77 | 第三波 11.2-11.9 |
+| C108 | [阿伟Vison](https://v.douyin.com/KKxyp43kiWg/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/ODEvd7hpnoilU1xVVzocIjnDnyd) | 1038 / 0 / 1 | 第三波 11.2-11.9 |
+| C109 | [Mumu同学](https://v.douyin.com/YP5jskTZ-tg) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/LdvydXpIToZN6GxEW2GcpsCQnrd) | 1189 / 57 / 108 | 第三波 11.2-11.9 |
+| C110 | [特努斯](https://v.douyin.com/XH_zhGQ1Brk/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/RUWBdslkooBugAxBBf3cWHQqnyb) | 3167 / 105 / 72 | 第三波 11.2-11.9 |
+| C111 | [林减减的生活记录](https://v.douyin.com/yVRY0q39zlg/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/KQacdKMtKoD2jmx3lkfczVv6nOf) | 207 / 17 / 16 | 第三波 11.2-11.9 |
+| C112 | [进击的土博](https://v.douyin.com/-Xh0sVF_Wos/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/DGcldpL1FoyCRAxd4YjchgaHndh) | 100 / 18 / 13 | 第三波 11.2-11.9 |
+| C113 | [Peco酱](https://v.douyin.com/mELL5aOxqZk) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/Q3XPd241Mog5gyxzs5Vc6tvPn1f) | 4615 / 103 / 358 | 第三波 11.2-11.9 |
+| C114 | [小黄同学~](https://v.douyin.com/0oSx1nhKJmQ/) | [稿件](https://zqyd2vqyqmy.feishu.cn/docx/VTs7dRBjcoTx0fxUyH0c241fnBe) | 未填 / 未填 / 未填 | 第三波 11.2-11.9 |
+
+表内数据为本次读取快照，空缺不补0，加热未知不当自然流量。表内账号分类和推广项目未直接用于重新认定画像；例如大茶当前读书场景不因表内“旅行出行”就按旅游稿学。
+
+### C084 卡布 KABUKABU｜从‘能做很多事’改成自己的具体使用
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/UNoGd2mrvo3GMqxMoHHcGe8EnZd) · [原发布链接](https://v.douyin.com/WUfzAmHrJZo/)。当前rev76；选读历史rev1、45、67；2条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 批注要求把‘能做的事情真的很多’说具体；回复称已补，视频附件下有‘OK／挺好的’。历史rev45写微信预约进不去、只能提醒，当前改为整理预约信息。
+
+**可学与不能照搬：** 可借鉴的是具体车次、酒店条件和自己的取舍。11月9日实际打开发布页，局部画面01:16／02:31显示车票待支付，不能写成已付款出票；预约信息也不等于预约成功。
+
+**待核：** 公开页267赞、38评、17藏、14转，表内263赞有时差。可见评论有人问与普通手机装豆包App的区别，也有旅游／其他设备话题；只代表可见取样。未连续听看原声，不能确认语气、全片节奏或与附件同版。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C085 二腿黑猫｜长需求拆开，个人感受可以有具体例外
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/MNHcdunGioJXgCxVcJGc6Xx0n8d) · [原发布链接](https://v.douyin.com/bf4JoMK-1jg/)。当前rev25；选读历史rev1、8、24；3条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 北京收藏地点整理行程，再查机酒、发给朋友。批注要求长指令拆点／剪短，也指出暗背景压抑；对片尾本人AI感受有个案保留。
+
+**可学与不能照搬：** 保留日期、行程和朋友需求，让补问有原因。不能从这次允许片尾感受，推导任何达人都可加长篇总结夸奖。
+
+**待核：** 发布片、写入行程与发送对象尚待实际核验；旧波次出行不自动成为第四波优先选题。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C086 坤坤数码（只抽粉丝）｜创意稿和实际送审内容分开看
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/PXD2da3PPoYECNxb5gDcC8QMnKb) · [原发布链接](https://www.douyin.com/user/MS4wLjABAAAAcVhzdr0PME6gIZF5u-D3tSowKHHr9GQGmnTp651v42E?modal_id=7704296760159841137)。当前rev32；选读历史rev1、14、29；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 旧构思有天气变化壁纸；当前稿变为桌面整理、打车与午饭。批注说效果不够好、太快，文档有后续视频版本。
+
+**可学与不能照搬：** 先确认当前送审究竟做了什么；关键变化留时间看清，不用加速掩盖没有展示的结果。
+
+**待核：** 不能把旧天气壁纸构思当成已经实现。多任务是否同一真实需要、后版是否落实变慢，待看视频。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C087 深漂优优呀｜生活场景成立，手机过程仍要看得见
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/XmItd44XToMh2txZiAdcvb9Gnhd) · [原发布链接](https://v.douyin.com/L2R2xI0CSwg/)。当前rev31；选读历史rev1、18、24；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 晚回家后按食材安排吃饭和看电影；批注要求第一视角，并指出手机画面在右下角不够清楚。
+
+**可学与不能照搬：** 背景用真实晚归处境交代，随后把关键手机画面拍大；生活场景不是让操作缩成装饰。
+
+**待核：** 尚未核成片画面是否放大、食材与最终结果是否一致。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C088 王小帅 ￴｜学生身份不等于AI垂类，真实待办要有来源
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/CljMdmY5ZoDmD0xrOP8cNmt8nYf) · [原发布链接](https://www.douyin.com/video/7704281883660421107)。当前rev53；选读历史rev1、44、51；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 班级工作、迟起、通话待办、课表和健身安排等场景；批注提到场景多。
+
+**可学与不能照搬：** 取一个本人确实在处理的任务，说明录音从哪来、谁做什么、什么时候做。
+
+**待核：** 不能从脚本的通话转待办推导一直自动监听；要拍预先开启录音及结果。课程／健身任务的实际落地未核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C089 干饭小鹅｜删照片必须保留勾选和人工确认
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/QjuJdxe1YoYuMzxPdEdctio8nUe) · [原发布链接](https://v.douyin.com/mZ-5q_ebl3s/)。当前rev30；选读历史rev1、8、21；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 批注追问‘勾选过程有吗’；历史意见也指出介绍式开头太像广告。当前包含生活任务和照片处理。
+
+**可学与不能照搬：** 既删掉广告介绍，也补完整选择过程；不能用一张清理后的相册替代手机如何选择。
+
+**待核：** 当前能力口径不支持把相册分类泛化为自动删重、自动删人。具体版本的选中项、确认和结果待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C090 年年｜比价条件比‘省钱’形容更重要
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/Tj7AdWOsio1SDLxtdDOcopkZn8f) · [原发布链接](https://v.douyin.com/tqTta9yURhA/)。当前rev12；选读历史rev1、10；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 按化妆品、礼物、数量等需求比较；未读到批注。稿中还涉及定时或历史低价。
+
+**可学与不能照搬：** 可学规格、数量、自己的预算取舍；限定为实际比较过的店铺与券条件。
+
+**待核：** 无批注不等于通过。定时触发、历史最低价和实际支付结果都未核，不能按脚本承诺。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C091 大饼卷馒头就米饭｜专业判断让方案更像本人用过
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/V0Oed0fF5oSpe4x7sGQcoAbsnYd) · [原发布链接](https://v.douyin.com/a1qf2NnUas4/)。当前rev13；选读历史rev1、8；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 医生健身／休息日安排、饮食与计划壁纸；批注认可场景结合，并要求删一处字幕。
+
+**可学与不能照搬：** 自己的排班和执行限制决定方案，结果要能用于今天；不要把专业身份直接当AI长期实践证据。
+
+**待核：** 批注没明确的删字原因不代猜；生成壁纸不证明每日自动更新，视频落实待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C092 酸奶iris｜一屏朋友推荐，接自己的时间限制
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/REogd8ugKoQ8jRximo2cYxOQnXb) · [原发布链接](https://v.douyin.com/ongX9FO6QWw/)。当前rev13；选读历史rev1、11；3条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 用朋友成都推荐、时间窗生成安排，再实际去；批注有‘好可爱／蛮好’。旧说明明确一屏约两三条推荐。
+
+**可学与不能照搬：** 好学的是朋友材料与本人的限制，不是照演朋友聊天。把当前屏幕能看到的内容交给手机，再展示实际选择。
+
+**待核：** 不要改成一次读完整聊天记录；出行结果、本人原声及公开表现尚未复核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C093 杜晓晓｜保留本人节奏是个案协商，不是全体豁免
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/Tc3edMq9PoJ6O9xMZKfcQ62Nnzb) · [原发布链接](https://v.douyin.com/BWNYBTR0jEI/)。当前rev10；选读历史rev1、5、8；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 工作安排、回复、To Do壁纸。批注曾要求删结果后背景，达人说明自己的慢vlog习惯后获得‘行’。
+
+**可学与不能照搬：** 可以讨论具体哪段保留个人语气，但不能据此允许任意长前摇；背景应帮助理解真实任务。
+
+**待核：** ‘全部自己做完’仍需核哪些由手机完成、哪些本人接管。未听看成片，不能确认保留段落自然。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C094 苏智贤.｜‘换壁纸’有时是拍摄整改，不是功能选题
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/NuendxaoqovpnCxklLzcUsernib) · [原发布链接](https://v.douyin.com/dF1MmrdpkOA/)。当前rev13；选读历史rev1、7、11；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 扬州出行稿；批注要求换手机壁纸，避免原画面影响交付。
+
+**可学与不能照搬：** 先看批注所指位置，不要把让达人拍前换背景误学成新增动态壁纸玩法。
+
+**待核：** 人物肖像／壁纸素材使用和自购、长期使用经历需各自核实；发布版未核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C095 饿得啃床板（期待国庆版🥹）｜生活占比不能挤掉实际帮忙过程
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/NPxwdzUHioR6Sqx0sFxcMcD2nhe) · [原发布链接](https://v.douyin.com/eWYffaOwCRo/)。当前rev22；选读历史rev1、10、14；3条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 教师会议记录与出行；批注指出无关生活太多、工具过程少。后续有人问V2，未看到明确终版确认回复。
+
+**可学与不能照搬：** 先让观众看懂手机帮哪一步，真实环境点到即可；不是把生活镜头全删成教程。
+
+**待核：** V2上传／表内已发布不等于逐条修改落实。录音、分工结果与最终视频对应仍待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C096 瑞子哥｜真实限制保留，重复解释删掉
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/B4yBdZyFUoMVAnxgqDucHxsznLh) · [原发布链接](https://v.douyin.com/EhdFjlT4J-w/)。当前rev37；选读历史rev1、14、29；2条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 按学校通知准备12306车票，明确日期和‘先不提交’；批注要求清晰度并讨论POV封面，历史删了重复说明。
+
+**可学与不能照搬：** 看屏幕通知后直接办事，保留关键日期和本人提交确认，清理重复解释不会损失真实过程。
+
+**待核：** 预填、待提交与购票成功分开。旧封面意见不覆盖11月9日新封面禁词要求。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C097 叶北北睡不醒｜职场内容少术语，多展示自己怎么用
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/Qo6DdGflWoxnlMxr8KPcclQ6nfi) · [原发布链接](https://v.douyin.com/McogiNdXFpk/)。当前rev25；选读历史rev1、13、23；4条批注卡及其回复。
+
+**脚本／批注／改稿证据：** ROI分析后准备同事消息及待办；批注包括人名打码、不要支架、减少术语和指令、增加过程。
+
+**可学与不能照搬：** 保留本人到底要决定什么、怎么判断结果；人名隐去，任务和数值仍要能看懂。
+
+**待核：** 单屏信息不代表全表分析；拟消息不等于已发送，建议不等于预算已执行。后版实际落实待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C098 科技狂人老罗｜功能稿也要认真拍清屏幕
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/KTMSd4AnwoOTQRxUT6WcPQGGnmh) · [原发布链接](https://v.douyin.com/FmThAIRfJ44/)。当前rev11；选读历史rev1、6、9；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 整理不常用App及短信组件；批注集中在光线、色偏。
+
+**可学与不能照搬：** 数码达人可以实测系统功能，不必强塞生活故事；先把真实桌面、操作过程和可用结果拍清。
+
+**待核：** 近月使用统计权限、组件是否真能打开，以及长图读取范围都需实机验证，不能从脚本文字确认。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C099 刘易正_｜边吃早餐边安排出行，不等于能承受超长指令
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/OsKQdAfjoofcs7xor9vcP6iVnAb) · [原发布链接](https://v.douyin.com/l6K9dotNgho/)。当前rev11；选读历史rev1、8；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 早餐场景下安排上海行程；没有可读批注，历史文字有字幕相关删改。
+
+**可学与不能照搬：** 场景可以自然，条件仍应分句，关键时间、地点和预算用补问说清。
+
+**待核：** 文字删除不能证明视频已去掉相应字幕；支付、订票、结果核对尚未观看。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C100 大茶｜自己的兴趣材料好用，收货事实不能演
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/ElBOdXZBXoI01ExTFk6ctcI6nWd) · [原发布链接](https://v.douyin.com/KerSAc3oJYA/)。当前rev6；选读历史rev1、3；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 英文书收藏、加购和翻译；批注称自然，历史删去重复讲点击的文字，也调整了视频通话／识屏说法。
+
+**可学与不能照搬：** 从自己想读的书出发，边看结果边决定，比整段教操作更像日常分享。
+
+**待核：** 稿内仍写书没到、先拍别的；不能把代拍物件当该订单收货证据。发布版是否交代清楚待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C101 西米鱼🐟｜留旅行选择，去掉机械平台解说
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/FDVfd1IPcocBXyxtzTUc8FTBnKh) · [原发布链接](https://v.douyin.com/EIqF4IqMM-Q/)。当前rev31；选读历史rev1、23、30；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 北京六天五晚机酒票安排；历史删了平台步骤说明，留下个人条件。批注对视频有认可。
+
+**可学与不能照搬：** 比较为什么选这个酒店／时间比复述每次点击更有用，长指令拆开但别漏关键限制。
+
+**待核：** 付款确认不能剪成助手全自动付款。末版选取rev30与当前文本无实质差异，成片与实际订单仍未核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C102 良木缘2026｜分析模糊反馈，最终仍由本人确认
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/GMFydB6E0oV7ozxf0YMcgGvjned) · [原发布链接](https://v.douyin.com/BwskzjIJGmw/)。当前rev19；选读历史rev1、6、16；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 面对客户／老板模糊要求，识屏整理问题、草拟回复；无批注。历史删去重复揣测背景和‘入股不亏’尾句。
+
+**可学与不能照搬：** 可学的是把模糊话变成可确认的问题，再由自己改回复；删冗余不等于删掉个人判断。
+
+**待核：** AI对老板意图只是推测，不是事实。稿里仍有跳到购物的泛化收尾，不能因已发布沿用；按AI键入口与实际发送待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C103 露露Lulu｜讨论AI文章要区分原文、推测和本人证据
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/XmBRd2YJioNfprxaRmKcJvb1njf) · [原发布链接](https://v.douyin.com/_VhSaBz3HFM/)。当前rev25；选读历史rev1、14、20；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 围绕AI文章找依据、分事实与预测，并提本人发票实践；无批注。当前还写三片段未合成、开收尾待补。
+
+**可学与不能照搬：** 专业内容可以体现本人判断，但外部文章／模型回答不自动等于事实；来源和实际材料要分开。
+
+**待核：** 已发布表与文档待合成描述冲突，必须先找最终版本。一次识屏不能读完整长文章；不据文本确认整片或发票能力。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C104 茶妹生活日记｜补关键过程，同时删同义碎碎念
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/GjyWd6DECoMWj3xX5oKcV0YJnSd) · [原发布链接](https://v.douyin.com/hXkuPGaeLbg/)。当前rev60；选读历史rev1、45、58；2条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 批注指出不能指令后直接跳结果，也指出重复同一意思的碎碎念。内容涉及桌面、照片、阅读和提醒。
+
+**可学与不能照搬：** 关键操作／真实取舍要留；同一个结论反复说可以删。这两条同时成立，不用把所有说话剪光或把所有闲话保留。
+
+**待核：** 照片删除、提醒触发和各功能是否服务同一需要待核；当前视频未完整观看。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C105 六耳老师🦋｜App也能做的问题，要补手机实际帮了哪步
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/Jb7adOHLiofEhwxnYO0c9lOsngE) · [原发布链接](https://v.douyin.com/4-6_tGPbxxM/)。当前rev18；选读历史rev1、12、16；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 家长消息回复；批注认为普通App也能做，并希望再加内容。
+
+**可学与不能照搬：** 优先把当前屏幕入口和后续动作拍出来，顺着教师真实沟通需要继续；不能把‘再加点’解释为随便堆无关功能。
+
+**待核：** 不能据教师身份归P0AI。读屏范围、回复对象与本人确认的真实过程待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C106 虞虞日记｜具体偏好比编情节更有说服力
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/ZcpLdpMvjo0YtUxX7wYcnADKnRb) · [原发布链接](https://v.douyin.com/NWk_tYcK9MU/)。当前rev28；选读历史rev1、23；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 下班找吃的、选择地点，保留本人修改偏好；批注称挺好，历史精简聊天铺垫和穿搭／时间等旁枝。
+
+**可学与不能照搬：** 真实不合适→补条件→自己去，是可借鉴结构；不照搬另一个人的行程或表演。
+
+**待核：** 旧出行题不自动成为第四波重点；最终确有实际到店及视频自然度待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C107 一只橘-微众｜专业兴趣给AI结果一个真实验收标准
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/DHxudU7t0o4rUpxnQNRcX9G1nGf) · [原发布链接](https://v.douyin.com/CPf2Har_tdw)。当前rev13；选读历史rev1、10；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 摄影师蓝色主题colorwalk，路线、现场照片及回看；批注说质量高。
+
+**可学与不能照搬：** 颜色、拍摄地点和照片选择来自本人审美，适合让手机服务真实创作。
+
+**待核：** 照片多不等于省时；自动删除路人／废片需另实测。未复核发布视频与近10条基线，不列成数据好case。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C108 阿伟Vison｜选充电器可以停在决定前，不必硬造购买
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/ODEvd7hpnoilU1xVVzocIjnDnyd) · [原发布链接](https://v.douyin.com/KKxyp43kiWg/)。当前rev22；选读历史rev1、19；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 三台设备的充电协议、接口、线材与价格选择；无批注。
+
+**可学与不能照搬：** 自己的设备限制、还要不要买，比背参数更自然；合理停在比较／待决定即可。
+
+**待核：** 模型推荐不是本人实测性能，型号兼容要核；商品品牌按新红线处理，不能把遮挡做成结果不可读。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C109 Mumu同学｜搜索测评和自己做测评要说清
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/LdvydXpIToZN6GxEW2GcpsCQnrd) · [原发布链接](https://v.douyin.com/YP5jskTZ-tg)。当前rev7；选读历史rev1、7；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 从芯片新闻找实际评测作比较；无批注。
+
+**可学与不能照搬：** 保留本人关心的问题与比较条件，清楚交代结论来自哪个实际来源。
+
+**待核：** 助手搜索结果不等于达人做过跑分／续航测试；来源、设备和系统版本待核，避免退回资讯宣讲。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C110 特努斯｜多功能切换不能代替一个真实需求
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/RUWBdslkooBugAxBBf3cWHQqnyb) · [原发布链接](https://v.douyin.com/XH_zhGQ1Brk/)。当前rev12；选读历史rev1、4；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 从电池／价格话题跳到短剧缓存；无批注。
+
+**可学与不能照搬：** 先判断本人到底想解决哪件事，再选相关操作；不是功能越多越能证明手机厉害。
+
+**待核：** NPU与续航因果不能靠台词断定；短剧是否支持缓存、离线实际打开均待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C111 林减减的生活记录｜库存和人数是自然补问的好来源
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/KQacdKMtKoD2jmx3lkfczVv6nOf) · [原发布链接](https://v.douyin.com/yVRY0q39zlg/)。当前rev6；选读历史rev1、4；1条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 夫妻吃饭、三道菜，先扣家中食材再补三人份采购；批注认可流畅。
+
+**可学与不能照搬：** 实际库存、份量和自己确认价格让补问有原因，避免一口气念完准备好的长指令。
+
+**待核：** 这是表达结构参考，普通买菜仍属第四波备选。加购规格、付款及做饭结果未实际观看确认。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C112 进击的土博｜真实报销约束有用，无关功能别硬加
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/DGcldpL1FoyCRAxd4YjchgaHndh) · [原发布链接](https://v.douyin.com/-Xh0sVF_Wos/)。当前rev10；选读历史rev1、5、8；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 学术出差指定时间和酒店380元标准，又带路由器等内容；无批注。
+
+**可学与不能照搬：** 自己的报销限制天然具体，选项要符合标准；后面的功能如果不服务这次出差，应另题处理。
+
+**待核：** 研究生身份不等于长期AI垂类；价格含税／房型、实际预订状态与视频待核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C113 Peco酱｜勉强放行不等于该模式值得复制
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/Q3XPd241Mog5gyxzs5Vc6tvPn1f) · [原发布链接](https://v.douyin.com/mELL5aOxqZk)。当前rev19；选读历史rev2、15、17；3条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 游戏直接开用后接新闻和长文；批注认为后两项不像日常、遮挡多，后有先改打码的有限退让。
+
+**可学与不能照搬：** 保留真实游戏兴趣，后续只接本人确实会做的事；评论里的‘先这样’要连同前面的保留意见读。
+
+**待核：** 不能把退让改写成质量认可。长文单屏范围、打码后的可读性和最终版本未核。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+### C114 小黄同学~｜桌面前后变化，还要点开验证
+
+[原稿](https://zqyd2vqyqmy.feishu.cn/docx/VTs7dRBjcoTx0fxUyH0c241fnBe) · [原发布链接](https://v.douyin.com/0oSx1nhKJmQ/)。当前rev5；选读历史rev1、3；0条批注卡及其回复。
+
+**脚本／批注／改稿证据：** 先说公司式桌面结果，再按AI键整理检查；无批注。客户表已发布，但实际发布日期与数据为空。
+
+**可学与不能照搬：** 桌面有直观变化，可用A／B进入；最后实际点开文件夹和App，证明不是只换一张图。
+
+**待核：** 不因漏填日期漏掉学习；也不把空数据填0。当前待核原始发布页、日期、桌面可用结果和原声。
+
+状态：partial；未完整观看当前实际视频和原声，以上不构成成片初审通过。
+
+## 旧案例差异复查（2026-11-09）
+**C050 一只小璐：** [原稿](https://zqyd2vqyqmy.feishu.cn/docx/P56ydJIXOoug8CxIAjAcmX6TnBf)新增‘违规后修改版’视频，附件token `HCi5bW5X4oRB5AxGsX0cTIa8ns3`，当前rev39。原批注‘节奏好’等未变化，不能自动套到新附件。还需实看旧／新版及对应发布页；标题本身不证明被平台判罚、判罚原因或最终上线版本。保留历史抽帧证据，新增版本记partial。
+**C029 猿叔搞钱日记：** 当前rev27内容hash变化仅由图片alt描述重生成造成；图片源token、正文、附件和批注未变。登记非实质变化，不重复下载旧视频；原有公开评论／视频范围缺口仍保留。
+
+**旧发布链接补核：** C015小风同学、C048解忧代码换成短链，HTTP跳转目标仍是各自原视频ID；C050一只小璐从旧短链`m-4IzU7FyqQ`换为`JJzA5gV27Sw`，跳转视频ID由7704264496630093282变为7704589991103581475，确有发布目标变化，继续按新片partial复查。这里只核跳转，最终HEAD返回404不等于视频已删除，也不算观看发布页。
