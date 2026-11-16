@@ -29,10 +29,10 @@ description: "初审豆包手机项目脚本与实际视频。用户指定飞书
 
 ## 读取顺序
 
-1. 读 `references/reviewer-handbook.md` 与 `references/brief-and-redline-map.md`。后者把机构BF的内容做法、红线与口径冲突列成具体检查项。涉及选号再读 `references/selection-and-optimization.md`；需要给达人转发，使用 `references/creator-guide.md`，别混入内部负面点评。
+1. 先读 `references/current-wave-2026-11-16.md` 获取本轮要求和旧例冲突，再读 `references/reviewer-handbook.md` 与 `references/brief-and-redline-map.md`。涉及选号再读 `references/selection-and-optimization.md`；需要给达人转发，使用 `references/creator-guide.md`，别混入内部负面点评。
 2. 读 `references/sources.json`，刷新与本次任务相关的当周 Brief、玩法测试记录、当前稿件及批注。按 `references/agent-adapters.md` 使用当前环境实际可用的飞书工具；有lark-doc/lark-base/lark-drive技能时读取相关操作说明，没有也不要求安装同名技能。不要凭缓存重造接口参数。私有来源无法访问时具体说明，结合用户给的材料继续可做的初审，不拿维护者凭证补权限。
-3. 需要历史依据时按昵称/案例编号在 `references/casebook.md` 检索，再看 `references/revision-cases.md`。当前索引114条已发布记录，同一达人可能重复；无需每次全读。11月9日新增31条及1条旧附件变化均为partial，不能冒充已完整听看。
-4. 能力判断读 `references/capability-boundaries.md` 并查实时测试结果；最近要求刷新日期为2026-11-09，历史案例仍保留各自时间与覆盖范围，不能把快照作为未来产品状态。
+3. 需要历史依据时按昵称/案例编号在 `references/casebook.md` 检索，再看 `references/revision-cases.md`。当前索引166条已发布记录，同一达人可能重复；无需每次全读。11月16日新增52条均为partial：文字和选取历史已学，完整视听待补；旧批次缺口继续保留。
+4. 能力判断读 `references/capability-boundaries.md` 并查实时测试结果；最近要求刷新日期为2026-11-16，历史案例仍保留各自时间与覆盖范围，不能把快照作为未来产品状态。
 5. 按 `assets/review-template.md` 输出，需要结构化结果用 `assets/review-schema.json`；具体反馈写法见 `references/worked-reviews.md`。
 6. 审稿时读 `references/judgment-and-calibration.md`；普通审稿、修改评论、复审均读 `references/feishu-review-writeback.md`，并按 `assets/comment-plan.schema.json` 记录评论计划与回执。这不是可选的“回写模式”；明确只分析时才跳过写入步骤。
 7. 每周学习和更新GitHub时读 `references/weekly-learning.md`；学习状态在 `references/learning-state.json`。新增已发布样本按记录ID和版本去重，不能把未看完的内容标成已完整核验。
@@ -43,7 +43,7 @@ description: "初审豆包手机项目脚本与实际视频。用户指定飞书
 - 文档首附件、本地v1编号不等于终稿。用标题、批注指向、上传顺序与实际内容确认；不确定就明说。
 - 读取已解决和未解决批注及回复；甲方雷渝萌、我方回复、AI会议纪要和自己的推断要分开。
 - 最新明确本轮要求优先于旧波次一般范例；存在冲突要指出原文与适用范围，不自行拼出一条从未存在的统一规则。
-- 不同波次有不同目标。第四波11.9—11.15偏读屏、本机、连续补问；小程序专项要求30秒内与问答→服务承接。不要永久锁定这些方向，下一次先刷新。
+- 不同波次有不同目标。11月16日读取的第四—五波偏读屏、本机、动态壁纸视觉前置和零帧起手；小程序专项要求30秒内与问答→服务承接。不要永久锁定这些方向，下一次先刷新。
 
 ## 核心判断
 
@@ -57,7 +57,7 @@ description: "初审豆包手机项目脚本与实际视频。用户指定飞书
 
 ### 2. 看进入任务是否快
 
-先实拍开用、结果前置、或一句具体背景马上操作。产品名出现早不等于核心体验出现早。长指令分句、要点字幕、等待加速并说明；不要把关键条件剪掉。原生长视频仅在当轮允许时作为例外，不统一强制30秒，也不因Vlog身份接受任意前摇。
+本轮先实拍开用或结果前置，背景优先压花字；旧版一句背景开场和原生结构，须按最新本轮要求确认。产品名出现早不等于核心体验出现早。长指令分句、要点字幕、等待加速并说明；不要把关键条件剪掉。原生长视频仅在当轮允许时作为例外，不统一强制30秒，也不因Vlog身份接受任意前摇。
 
 ### 3. 看原需求与最终结果
 
